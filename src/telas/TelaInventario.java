@@ -1,7 +1,7 @@
 package telas;
 import jogabilidade.Jogo;
 import personagens.Jogador;
-import personagens.Personagem;
+import utilizavel.Item;
 
 import java.util.Scanner;
 
@@ -69,8 +69,12 @@ public class TelaInventario {
         String nome = scanner.nextLine();
         Jogador jogador = new Jogador(nome, habilidade, energia, sorte);
 
-        jogador.getInventario().adicionarItem("Espada curta");
-        jogador.getInventario().adicionarItem("Armadura de Couro");
+        Item espadaCurta = new Item("Espada curta", 'w', true, 1);
+        Item armaduraDeCouro = new Item("Armadura de Couro", 'r', false, 0);
+        jogador.getInventario().adicionarItem(espadaCurta);
+        jogador.getInventario().adicionarItem(armaduraDeCouro);
+        jogador.getInventario().adicionarTesouro(1000);
+        jogador.exibirInformacoes();
 
         Jogo.setJogador(jogador);
     }

@@ -1,10 +1,14 @@
 import jogabilidade.Jogo;
+import personagens.Inimigo;
+import personagens.Jogador;
 import telas.TelaInicial;
 import telas.TelaInventario;
+import utilizavel.Inventario;
+import utilizavel.Item;
 
 public class Main {
     public static void main(String[] args) {
-    //1. Definição de Telas
+    //Definição de Telas
         //Tela Inicial:
             //Visibilidade: "100%" (não contando o limpa tela, veja EstilizacaoTela para mais contexto)
             //Funcionalidade: 62,5%
@@ -12,16 +16,35 @@ public class Main {
                 //case 1 funciona 50% (te leva para a criação de personagem, não começa novo jogo)
                 //case 2 0%
         //Tela Inventário:
-            //Funcionalidade: 50%
+            //Funcionalidade: ???%
             //Criação de personagem: 100% (falta polimento, mas por enquanto- como apenas está sendo usado para testes, está ok)
             //Exibição de Inventário: ???% (acho que está ok, mas não consegui testar ainda)
         //Tela Padrão: 0%
         //Tela Combate: 0%
-        TelaInicial.exibir();
+    //TESTE TELA INICIAL:
+//        TelaInicial.exibir();
 
     //Definição de Personagens
-    //Personagem (Jogador, Inimigo)
-    //Util (Inventario, Item)
-    //Funcionalidade (Testar Sorte, Salvar Jogo, Carregar Jogo, etc?)
+        //Personagem (classe mãe): 100%
+            //Jogador: 100%
+            //Inimigo: 100%
+    //TESTE PERSONAGEM:
+//        Item excalibur = new Item("Excalibur", 'w', true, 5);
+//        Jogador arthur = new Jogador("Arthur Boyle", 10, 20, 8);
+//        arthur.getInventario().adicionarItem(excalibur);
+//        arthur.getInventario().adicionarTesouro(1000);
+//        arthur.exibirInformacoes();
+//        System.out.println();
+
+    //TESTE INIMIGO:
+//        Item lanca = new Item("Lança", 'w', true, 1);
+//        Inimigo goblin = new Inimigo("Goblin", 10, 20, 6, 200, 1, lanca);
+//        goblin.exibirInformacoes();
+
+    //Definição de Utilizavel
+        //Inventário: 100%
+        //Item: 100% (fora o aspecto de dano... grr)
+
+    //Jogabilidade: (Testar Sorte, Salvar Jogo, Carregar Jogo, etc?)
     }
 }

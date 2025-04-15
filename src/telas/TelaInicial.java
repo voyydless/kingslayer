@@ -26,6 +26,7 @@ public class TelaInicial {
             case 1: {
                 EstilizacaoTela.limparTela();
                 TelaInventario.criacaoIncial();
+                break;
             }
             //case 2: carregar jogo
             case 3: {
@@ -39,11 +40,13 @@ public class TelaInicial {
                 scanner.nextLine();
                 scanner.nextLine();
                 exibir();
+                break;
             }
             case 4: {
                 EstilizacaoTela.limparTela();
                 System.out.println("Encerrando...");
                 System.exit(0);
+                break;
             }
             default:
                 EstilizacaoTela.limparTela();

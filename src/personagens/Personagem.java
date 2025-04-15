@@ -13,6 +13,7 @@ public class Personagem {
         sorte = S;
     }
 
+    //Getters para poder utilizar estes atributos em outras classes
     public String getNome() {
         return nome;
     }

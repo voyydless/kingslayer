@@ -1,7 +1,6 @@
 package personagens;
 
-import telas.EstilizacaoTela;
-import util.Inventario;
+import utilizavel.Inventario;
 
 public class Jogador extends Personagem {
     private Inventario inventario;
