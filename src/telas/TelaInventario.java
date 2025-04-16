@@ -69,8 +69,8 @@ public class TelaInventario {
         String nome = scanner.nextLine();
         Jogador jogador = new Jogador(nome, habilidade, energia, sorte);
 
-        Item espadaCurta = new Item("Espada curta", 'w', true, 1);
-        Item armaduraDeCouro = new Item("Armadura de Couro", 'r', false, 0);
+        Item espadaCurta = new Item("Espada curta", 'w', true, 1, 0);
+        Item armaduraDeCouro = new Item("Armadura de Couro", 'r', false, 0, 0);
         jogador.getInventario().adicionarItem(espadaCurta);
         jogador.getInventario().adicionarItem(armaduraDeCouro);
         jogador.getInventario().adicionarTesouro(1000);

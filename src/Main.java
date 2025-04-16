@@ -29,7 +29,7 @@ public class Main {
             //Jogador: 100%
             //Inimigo: 100%
     //TESTE PERSONAGEM:
-//        Item excalibur = new Item("Excalibur", 'w', true, 5);
+//        Item excalibur = new Item("Excalibur", 'w', true, 5, 3);
 //        Jogador arthur = new Jogador("Arthur Boyle", 10, 20, 8);
 //        arthur.getInventario().adicionarItem(excalibur);
 //        arthur.getInventario().adicionarTesouro(1000);
@@ -37,13 +37,13 @@ public class Main {
 //        System.out.println();
 
     //TESTE INIMIGO:
-//        Item lanca = new Item("Lança", 'w', true, 1);
+//        Item lanca = new Item("Lança", 'w', true, 1, 1);
 //        Inimigo goblin = new Inimigo("Goblin", 10, 20, 6, 200, 1, lanca);
 //        goblin.exibirInformacoes();
 
     //Definição de Utilizavel
         //Inventário: 100%
-        //Item: 100% (fora o aspecto de dano... grr)
+        //Item: 100%
 
     //Jogabilidade: (Testar Sorte, Salvar Jogo, Carregar Jogo, etc?)
     }

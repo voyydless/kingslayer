@@ -5,19 +5,14 @@ public class Item {
     private char tipo; // c: comum, r: armadura, w: arma
     private boolean combate;
     private int fa;
-//    private int dano;
-    //Vou mandar a real. Entendi o que é fa (bônus atribuído a H do personagem em batalha,
-    //mas não tenho a mínima ideia do que seja dano.
-    //Na teoria faz sentido, mas como o bombate inteiro é ditado por sorte
-    //(valor de 1 a 10 é adicionado na habilidade do jogador e do inimigo, quem tiver o maior fa
-    //é o vencedor e tira 2 pontos de energia do oponente... então qual o sentido de dano???
+    private int dano;
 
-    public Item(String nome, char tipo, boolean combate, int fa) {
+    public Item(String nome, char tipo, boolean combate, int fa, int dano) {
         this.nome = nome;
         this.tipo = tipo;
         this.combate = combate;
         this.fa = fa;
-//        this.dano = dano;
+        this.dano = dano;
     }
 
     public String getNome() {
@@ -32,9 +27,9 @@ public class Item {
         return combate;
     }
 
-//    public int getDano() {
-//        return dano;
-//    }
+    public int getDano() {
+        return dano;
+    }
 
 
     @Override
@@ -53,7 +48,6 @@ public class Item {
             default:
                 tipoNome = "???";
         }
-        return nome + " (" + tipoNome + ") | Combate: " + (combate ? "1" : "0") + " | FA: " + fa;
-        //depois de entender o que é dano, incluir: + " | Dano: " + dano
+        return nome + " (" + tipoNome + ") | Combate: " + (combate ? "1" : "0") + " | FA: " + fa + " | Dano Bônus: " + dano;
     }
 }
