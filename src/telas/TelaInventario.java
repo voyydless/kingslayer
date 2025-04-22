@@ -77,6 +77,7 @@ public class TelaInventario {
         jogador.exibirInformacoes();
 
         Jogo.setJogador(jogador);
+        Jogo.setCenaAtual(1);
     }
 
     public static void mostrarInventario(Jogador jogador) {
