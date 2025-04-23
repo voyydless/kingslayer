@@ -1,4 +1,7 @@
 package telas;
+import jogabilidade.Arquivos;
+import jogabilidade.Jogo;
+
 import java.util.Scanner;
 
 public class TelaInicial {
@@ -28,7 +31,12 @@ public class TelaInicial {
                 TelaInventario.criacaoIncial();
                 break;
             }
-            //case 2: carregar jogo
+            case 2:{
+                EstilizacaoTela.limparTela();
+                Arquivos.carregarJogo();
+                System.out.println("Jogo carregado. Cena atual: " + Jogo.getCenaAtual());
+                break;
+            }
             case 3: {
                 EstilizacaoTela.limparTela();
                 titulo();

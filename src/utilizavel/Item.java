@@ -31,6 +31,10 @@ public class Item {
         return dano;
     }
 
+    public int getFa() {
+        return fa;
+    }
+
 
     @Override
     public String toString() {
