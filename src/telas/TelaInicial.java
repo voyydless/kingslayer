@@ -26,23 +26,23 @@ public class TelaInicial {
         EstilizacaoTela.centralizar("4. Encerrar", 45);
         EstilizacaoTela.centralizar("\nDigite uma opção para continuar:", 45);
 
-        int opcao = scanner.nextInt();
+        String opcao = scanner.nextLine();
 
         switch (opcao) {
-            case 1: {
+            case "1": {
                 //Inicia a criação do personagem e começa um novo jogo
                 EstilizacaoTela.limparTela();
                 TelaInventario.criacaoIncial();
                 break;
             }
-            case 2: {
+            case "2": {
                 //Carrega o progresso salvo do jogador
                 EstilizacaoTela.limparTela();
                 Arquivos.carregarJogo();
                 System.out.println("Jogo carregado. Cena atual: " + Jogo.getCenaAtual());
                 break;
             }
-            case 3: {
+            case "3": {
                 //Exibe os créditos
                 EstilizacaoTela.limparTela();
                 titulo();
@@ -56,7 +56,7 @@ public class TelaInicial {
                 exibir();
                 break;
             }
-            case 4: {
+            case "4": {
                 //Encerra o programa
                 EstilizacaoTela.limparTela();
                 System.out.println("Encerrando...");

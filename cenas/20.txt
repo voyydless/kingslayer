@@ -1,0 +1,26 @@
+m
+You turn sharply, hand gripping the hilt at your side. Fog coils at your boots,
+thick and heavy, distorting shapes and sound.
+Out of it steps a man— a hunter.
+He’s broad-shouldered, heavy with muscle but moving light on his feet.
+His cloak is ratty but thick, patched with the hides of creatures not found this side
+of the forest. His armor is mismatched, but well polished.
+Pieces taken from the dead, no doubt.
+
+His face is young, scarred at the jawline, long hair tied into a knot.
+
+"You’re worth a lot of coin, you know that?" he says, voice easy, like this was a conversation
+at a tavern table and not the edge of death. "Dead or alive. Guess which one’s easier for me."
+He shifts his stance, boots crunching on the gravel. You notice his hand twitch,
+a small movement toward a throwing knife strapped to his belt.
+
+He isn’t here to talk.
+
+N: Hunter
+H: 8
+S: 10
+E: 18
+T: 15
+P: 1
+I: Mismatched Armour;r;0;
+21;22

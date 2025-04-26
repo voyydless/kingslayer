@@ -78,6 +78,9 @@ public class TelaInventario {
         jogador.getInventario().adicionarItem(espadaCurta);
         jogador.getInventario().adicionarItem(armaduraDeCouro);
         jogador.getInventario().adicionarTesouro(100);
+        jogador.getInventario().adicionarProvisoes(1);
+        jogador.equiparArma(espadaCurta);
+        jogador.equiparArmadura(armaduraDeCouro);
         //Exibe os atributos e inventário do jogador
         jogador.exibirInformacoes();
 
@@ -90,12 +93,126 @@ public class TelaInventario {
     //Exibe as informações do personagem e seu inventário durante o jogo;
     //É acessível a qualquer momento digitando "i" nas cenas.
     public static void mostrarInventario(Jogador jogador) {
-        EstilizacaoTela.limparTela();
         Scanner scanner = new Scanner(System.in);
-        EstilizacaoTela.centralizar("--- Info ---", 70);
-        jogador.exibirInformacoes();
-        System.out.println();
-        EstilizacaoTela.centralizar("Pressione ENTER para voltar", 70);
+        boolean voltar = false;
+
+        while (!voltar) {
+            EstilizacaoTela.limparTela();
+            EstilizacaoTela.centralizar("--- Info ---", 70);
+            jogador.exibirInformacoes();
+
+            EstilizacaoTela.centralizar("Opções: ", 70);
+            EstilizacaoTela.centralizar("'e' para equipar um item", 70);
+            EstilizacaoTela.centralizar("'p' para usar uma provisão", 70);
+            EstilizacaoTela.centralizar("'v' para voltar", 70);
+            String opcao = scanner.nextLine();
+
+            switch (opcao.toLowerCase()) {
+                case "v":
+                    voltar = true;
+                    break;
+                case "e":
+                    menuEquipar(jogador);
+                    break;
+                case "p":
+                    if (jogador.usarProvisao()) {
+                        EstilizacaoTela.linhas();
+                        EstilizacaoTela.centralizar("Você usou uma provisão e recuperou energia!", 70);
+                        EstilizacaoTela.linhas();
+                    } else {
+                        EstilizacaoTela.linhas();
+                        EstilizacaoTela.centralizar("Você não tem como usar uma provisão no momento.", 70);
+                        EstilizacaoTela.linhas();
+                    }
+                    EstilizacaoTela.centralizar("Pressione ENTER para continuar", 70);
+                    scanner.nextLine();
+                    break;
+                default:
+                    System.out.println("\nOpção inválida. Pressione ENTER para tentar novamente.");
+                    scanner.nextLine();
+            }
+        }
+    }
+
+    public static void menuEquipar(Jogador jogador) {
+        Scanner scanner = new Scanner(System.in);
+
+        EstilizacaoTela.linhas();
+        EstilizacaoTela.centralizar("Escolha o que deseja equipar: ", 70);
+        EstilizacaoTela.centralizar("1. Arma", 70);
+        EstilizacaoTela.centralizar("2. Armadura", 70);
+        EstilizacaoTela.centralizar(" --- Digite qualquer outra tecla para cancelar ---", 70);
+        EstilizacaoTela.linhas();
+        String opcao = scanner.nextLine();
+
+        switch (opcao) {
+            case "1":
+                equiparArma(jogador);
+                break;
+            case "2":
+                equiparArmadura(jogador);
+                break;
+            default:
+                System.out.println("Voltando...");
+                break;
+        }
+
+    }
+
+    public static void equiparArma(Jogador jogador) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("\nArmas disponíveis: ");
+
+        int i = 1;
+        for (Item item : jogador.getInventario().getItens()) {
+            if (item.getTipo() == 'w') {
+                System.out.println(i + " - " + item.getNome());
+            }
+            i++;
+        }
+
+        System.out.println("Digite o número da arma que deseja equipar: ");
+        int opcao = scanner.nextInt();
+        i = 1;
+        for (Item item : jogador.getInventario().getItens()) {
+            if (item.getTipo() == 'w') {
+                if (i == opcao) {
+                    jogador.equiparArma(item);
+                    return;
+                }
+                i++;
+            }
+        }
+        System.out.println("Arma não encontrada.");
+    }
+
+    private static void equiparArmadura(Jogador jogador) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("\nArmaduras disponíveis:");
+
+        int i = 1;
+        for (Item item : jogador.getInventario().getItens()) {
+            if (item.getTipo() == 'r') {
+                System.out.println(i + " - " + item.getNome());
+            }
+            i++;
+        }
+
+        System.out.println("Digite o número da armadura que deseja equipar: ");
+        int opcao = scanner.nextInt();
+        i = 1;
+        for (Item item : jogador.getInventario().getItens()) {
+            if (item.getTipo() == 'r') {
+                if (i == opcao) {
+                    jogador.equiparArmadura(item);
+                    return;
+                }
+                i++;
+            }
+        }
+
+        System.out.println("Armadura não encontrada.");
     }
 
 }
+

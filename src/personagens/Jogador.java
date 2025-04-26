@@ -9,6 +9,8 @@ import utilizavel.Item;
 public class Jogador extends Personagem {
     private Inventario inventario;
     private int energiaMaxima;
+    private Item armaEquipada;
+    private Item armaduraEquipada;
 
     //Construtor do jogador
     public Jogador(String nome, int habilidade, int energia, int sorte) {
@@ -17,11 +19,29 @@ public class Jogador extends Personagem {
         this.energiaMaxima = energia; //Energia máxima é a energia inicial definida pelo jogador
     }
 
+    public void equiparArma(Item arma) {
+        if (arma != null && arma.getTipo() == 'w') {
+            armaEquipada = arma;
+            System.out.println("Você equipou: " + armaEquipada.getNome());
+        } else {
+            System.out.println("Esse item não é uma arma!");
+        }
+    }
+
+    public void equiparArmadura(Item armadura) {
+        if (armadura != null && armadura.getTipo() == 'r') {
+            armaduraEquipada = armadura;
+            System.out.println("Você equipou: " + armaduraEquipada.getNome());
+        } else {
+            System.out.println("Esse item não é uma armadura!");
+        }
+    }
+
     //Funcionalidade incompleta!!
     //Usa uma provisão do inventário;
     //Restaura até 4 pontos de energia, respeitando o limite da energia máxima.
     public boolean usarProvisao() {
-        if (inventario.getProvisoes() > 0) {
+        if (inventario.getProvisoes() > 0 && getEnergia() < getEnergiaMaxima()) {
             inventario.adicionarProvisoes(-1);
             int energiaAntes = getEnergia();
             setEnergia(Math.min(energiaAntes + 4, energiaMaxima));
@@ -36,6 +56,17 @@ public class Jogador extends Personagem {
         EstilizacaoTela.linhas();
         EstilizacaoTela.centralizar(getNome().toUpperCase(), 70);
         System.out.println("HABILIDADE: " + getHabilidade() +" | ENERGIA: " + getEnergia() + " | SORTE: " + getSorte());
+        if (armaEquipada != null) {
+            System.out.println("Arma equipada: " + armaEquipada.getNome());
+        } else {
+            System.out.println("Arma equipada: Nenhuma");
+        }
+
+        if (armaduraEquipada != null) {
+            System.out.println("Armadura equipada: " + armaduraEquipada.getNome());
+        } else {
+            System.out.println("Armadura equipada: Nenhuma");
+        }
         inventario.exibir();
         EstilizacaoTela.linhas();
     }
@@ -43,6 +74,7 @@ public class Jogador extends Personagem {
     //Getters e setter
     public Inventario getInventario() { return inventario; }
     public int getEnergiaMaxima() { return energiaMaxima; }
+    public Item getArmaEquipada() { return armaEquipada; }
+    public Item getArmaduraEquipada() { return armaduraEquipada; }
     public void setEnergiaMaxima(int energiaMaxima) { this.energiaMaxima = energiaMaxima; }
-
-    }
+}

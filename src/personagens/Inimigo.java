@@ -32,4 +32,11 @@ public class Inimigo extends Personagem{
         }
         EstilizacaoTela.linhas();
     }
+
+    //Getters
+    public int getTesouro() { return tesouro; }
+
+    public int getProvisoes() { return provisoes; }
+
+    public Item getItem() { return item; }
 }

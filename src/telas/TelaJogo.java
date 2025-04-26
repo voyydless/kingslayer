@@ -4,6 +4,7 @@ import jogabilidade.Jogo;
 import jogabilidade.LeitorDeArquivos;
 import jogabilidade.ProcessarArquivos;
 import personagens.Jogador;
+import personagens.Inimigo;
 import utilizavel.Item;
 
 import java.util.*;
@@ -41,8 +42,8 @@ public class TelaJogo {
             if (modificadorTesouro != 0) {
                 jogador.getInventario().adicionarTesouro(modificadorTesouro);
                 System.out.println(modificadorTesouro > 0 ?
-                        "\nVocê ganhou " + modificadorTesouro + " moedas de ouro." :
-                        "\nVocê perdeu " + modificadorTesouro + " moedas de ouro.");
+                        "Você ganhou " + modificadorTesouro + " moedas de ouro." :
+                        "Você perdeu " + modificadorTesouro + " moedas de ouro.");
             }
 
             //Provisões modificadas:
@@ -50,8 +51,8 @@ public class TelaJogo {
             if (modificadorPovisoes > 0) {
                 jogador.getInventario().adicionarProvisoes(modificadorPovisoes);
                 System.out.println(modificadorPovisoes > 1 ?
-                        "\nVocê ganhou " + modificadorPovisoes + " provisões." :
-                        "\nVocê ganhou " + modificadorPovisoes + " provisão.");
+                        "Você ganhou " + modificadorPovisoes + " provisões." :
+                        "Você ganhou " + modificadorPovisoes + " provisão.");
             }
 
             //Incompleto!! Por enquanto sempre vitória até implementar combate
@@ -65,7 +66,24 @@ public class TelaJogo {
                 System.out.println("Pressione ENTER para continuar");
                 scanner.nextLine();
 
-                //Por enquanto sempre vitória
+                //Por enquanto sempre vitória, possivelmente mudar partes disso para TelaCombate depois
+                //Bem rudimentar, vou polir depois
+                Inimigo inimigo = cena.getInimigo();
+
+                //Recompensas:
+                if (inimigo.getProvisoes() > 0) {
+                    jogador.getInventario().adicionarProvisoes(inimigo.getProvisoes());
+                    System.out.println("Você ganhou " + inimigo.getProvisoes() + " provisões!");
+                }
+                if (inimigo.getTesouro() > 0) {
+                    jogador.getInventario().adicionarTesouro(inimigo.getTesouro());
+                    System.out.println("Você ganhou " + inimigo.getTesouro() + " ouro!");
+                }
+                if (inimigo.getItem() != null) {
+                    jogador.getInventario().adicionarItem(inimigo.getItem());
+                    System.out.println("\nItem adquirido: " + item);
+                }
+
                 cenaAtual = cena.getCenaVitoria();
                 continue;
             }
