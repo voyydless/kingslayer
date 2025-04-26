@@ -1,0 +1,15 @@
+#8
+"Aye," He glances at the pouch of gold tied to your hip. "We got room."
+Tilting his head to the left, he signals towards a corridor. "5 gold a night".
+"Done." You say, tossing the coins on the table and taking your leave.
+"Be careful!" Adds the plump woman standing to his side. "Last man to stay in that
+room died of Rot... we could tell he was sickly when he came in, but by the morning,
+the poor thing looked like a corpse. Found him dead on the floor."
+You bring your right hand up to your left shoulder by instinct, feeling the cold, metal
+prosthetic arm that served as a constant reminder of why you were here.
+It had been rotten, had to be cut off. The King brought the Rot.
+If he were to vanish, perhaps it would vanish too.
+
+T: -5
+
+#16: "Goodnight."

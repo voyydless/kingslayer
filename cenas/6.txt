@@ -1,0 +1,15 @@
+#6
+He places a chipped tankard in front of you. The liquid inside swirls unnaturally—thick, dark.
+“The hell is this?”
+“Moonshine.”
+You have a hard time believing that. “Got anything else?”
+“We got moonshine.”
+You had a feeling that if you took a sip of that thing, it would be the last thing
+you’d ever drink. Maybe if you change the subject, he'll ignore the fact that
+you were slowly pushing the drink further and further away from you.
+
+T: -1
+
+#14: Ask about the King.
+#15: Ask about the soldier.
+#8: “Is there a room I could stay in? I have the gold to pay.”

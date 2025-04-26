@@ -1,0 +1,11 @@
+#4
+You approach the counter, footsteps heavy on the warped wood.
+“You’re not from here,” the barkeep’s voice sounds more like a growl, he
+glances at the soldier across the room for a split second. “Don’t get many
+people from other places, unless they’re looking for a deathbed.”
+“You serving or not?” you mutter.
+He shrugs. “Depends. You want drink, food or something else?”
+
+#6: Drink.
+#7: Food.
+#8: “Is there a room I could stay in? I have the gold to pay.”

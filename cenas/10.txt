@@ -1,0 +1,22 @@
+m
+You move fast. Faster than he expects.
+Your metal hand slams his tankard aside, sending it clattering to the floor, the
+liquid hissing where it splashes. No wonder why he hadn't drank it. The moment he reaches
+for his sword again, yours is already half-drawn.
+
+Steel screams against steel.
+The fight is far from elegant. Two bodies trying to outlast the other.
+He’s stronger— has the weight of armor and years, but you have speed, desperation, and hate.
+He lands a blow against your arm, scraping sparks off of metal. If you hadn't cut it off
+all those years ago, you would've lost your arm at that very instant.
+You drive your metal fist into his throat in return. He stumbles, but doesn't stop.
+Nor do you.
+
+N: Former Ursae
+H: 16
+S: 6
+E: 14
+T: 5
+P: 0
+I: Rusted Long Sword;w;1;2;1
+11;12

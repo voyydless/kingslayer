@@ -1,0 +1,8 @@
+#3
+The door creaks loudly as you push it open, the few inside turn to look at you,
+and you control yourself to not allow your face contort into a scowl as you
+notice the King’s Soldier sitting in the corner. A barkeep polishes a cup that’s
+never clean, eyes locked onto your own.
+
+#4: Go up to the barkeep.
+#5: Go up to the soldier.

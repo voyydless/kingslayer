@@ -1,0 +1,21 @@
+One, two, three strikes to his chest. Blood coughs from his mouth.
+His blade clatters to the floor. Your knee pins him down as your sword slits his neck.
+It’s quick. Merciful, if such a thing exists anymore.
+His eyes are glazed over, you feel no remorse. If you hadn't killed him, the
+Rot would've done it sooner than later. It’s leaking from where you cut his neck,
+black and gleaming, crawling like oil along his skin. It pools around your feet, smells
+of rust and rot and something older. Something wrong.
+The tavern guests stop their staring the moment it's over, must be used to this sort of thing.
+A woman plump from unhealthy water weight comes from behind the bar and starts to clean
+up the mess.
+"Finally someone did it," the barkeep speaks up. "Can't stand king's men, but we know better
+than to mess with them. Thought the Rot would take him sooner, he turned out to be quite
+resilient."
+"Don't suppose you'd have a room to offer your saviour?" you ask. He cackles.
+"Can't say no to that. 5 gold a night, but I'll throw in a meal for doing us a favour."
+
+P: 1
+T: -5
+
+#13: "I have a question... the Rot seems stronger than usual here. Why?"
+#16: You nod in appreciation and head to your room. "Goodnight."

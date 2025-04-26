@@ -1,0 +1,18 @@
+You wake with a racing heart. Not from noise, but from the absence of it.
+No birdsong, no wind, no footsteps below. Only the creaking of wood from the fragile
+bed you lay upon. The room is small, barely more than a cot and a table. One window,
+no curtain. The light that spills through is gray, lifeless.
+You flex your fingers, then your armored hand— it creaks like rusted hinges, but holds firm.
+On the table, a tray. Bread and a bowl of something that was once stew.
+The bread is hard, the stew cold, but it doesn’t stink. The woman you've come to assume
+was the barkeep's wife kept surprising you with you she managed to cook with
+the little they had that wasn't rotten.
+As you pick the tray up, you notice something under it; a note.
+
+'He knows someone’s coming. If you mean to keep going, go soon.'
+
+No name, no signature. You don't know who it's from, but you know it's for you.
+
+#17: Search the room for more clues.
+#18: Pack the note and leave.
+#19: Something about the note reminds you of a dream.

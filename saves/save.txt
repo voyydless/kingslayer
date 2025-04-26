@@ -1,0 +1,10 @@
+CenaAtual:7
+CenasVistas:1,2,3,4,5,7
+Nome:Teste
+Habilidade:8
+Energia:14
+Sorte:8
+Tesouro:100
+Provisoes:0
+Item:Espada curta;w;true;1;0
+Item:Armadura de Couro;r;false;0;0
