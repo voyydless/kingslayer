@@ -1,10 +1,10 @@
 CenaAtual:1
 CenasVistas:1
-Nome:gabriele
-Habilidade:8
+Nome:Teste
+Habilidade:10
 Energia:16
-Sorte:9
-Tesouro:1000
+Sorte:10
+Tesouro:100
 Provisoes:0
 Item:Espada curta;w;true;1;0
 Item:Armadura de Couro;r;false;0;0

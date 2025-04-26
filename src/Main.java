@@ -9,16 +9,15 @@ public class Main {
     public static void main(String[] args) {
         //Definição de Telas
         //Tela Inicial:
-        //Visibilidade: "100%" (não contando o limpa tela, veja EstilizacaoTela para mais contexto)
-        //Funcionalidade: 62,5%
-        //case 3 e 4 funcionando 100%
-        //case 1 funciona 50% (te leva para a criação de personagem, não começa novo jogo)
-        //case 2 0%
+            //Visibilidade: 100%
+            //Funcionalidade: 87,5%
+            //case 1 100%
+            //case 2 50% (carrega o jogo salvo, mas não começa de novo)
+            //case 3 e 4 100%
         //Tela Inventário:
-        //Funcionalidade: ???%
-        //Criação de personagem: 100% (falta polimento, mas por enquanto- como apenas está sendo usado para testes, está ok)
-        //Exibição de Inventário: ???% (acho que está ok, mas não consegui testar ainda)
-        //Tela Padrão: 0%
+            //Criação de personagem: 100%
+            //Exibição de Inventário: 75% (Apenas falta opção de consumir provisão)
+        //Tela Padrão: 75% (Falta adicionar combate, por enquanto apenas é uma vitória simulada)
         //Tela Combate: 0%
         //TESTE TELA INICIAL:
         TelaInicial.exibir();
@@ -31,7 +30,7 @@ public class Main {
         Item excalibur = new Item("Excalibur", 'w', true, 5, 3);
         Jogador arthur = new Jogador("Arthur Boyle", 10, 20, 8);
         arthur.getInventario().adicionarItem(excalibur);
-        arthur.getInventario().adicionarTesouro(1000);
+        arthur.getInventario().adicionarTesouro(100);
         arthur.exibirInformacoes();
         System.out.println();
 
@@ -44,6 +43,12 @@ public class Main {
         //Inventário: 100%
         //Item: 100%
 
-        //Jogabilidade: (Testar Sorte, Salvar Jogo, Carregar Jogo, etc?)
+        //Jogabilidade:
+            //Ler arquivos: 100%
+            //Salvar arquivos: 100%
+            //Carregar arquivos: 50% (carrega, mas não continua o jogo)
+            //Tetar sorte: 0%
+
+        //História: 50% (Já tá tudo escrito, só preciso adicionar o resto e trduzir para português)
     }
 }

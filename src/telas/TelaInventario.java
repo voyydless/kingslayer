@@ -5,8 +5,11 @@ import utilizavel.Item;
 
 import java.util.Scanner;
 
+//Responsável por exibir o processo de criação do personagem e permitir a visualização do inventário durante o jogo.
 public class TelaInventario {
-
+    //Inicia a criação do personagem, permitindo ao jogador distribuir pontos
+    //entre habilidade, energia e sorte. Após a criação, define itens iniciais,
+    //configura o jogador no jogo e inicia a primeira cena.
     public static void criacaoIncial() {
         Scanner scanner = new Scanner(System.in);
         EstilizacaoTela.limparTela();
@@ -62,28 +65,37 @@ public class TelaInventario {
         } while (pontosSorte < 0 || pontosSorte > 6 || pontosSorte > pontosParaDistribuir);
         sorte += pontosSorte;
 
-        //Personagem
+        //Criação do jogador em si
         EstilizacaoTela.limparTela();
         System.out.println("E o nome por qual será conhecido nesta aventura?");
         scanner.nextLine();
         String nome = scanner.nextLine();
         Jogador jogador = new Jogador(nome, habilidade, energia, sorte);
 
+        //Itens iniciais
         Item espadaCurta = new Item("Espada curta", 'w', true, 1, 0);
         Item armaduraDeCouro = new Item("Armadura de Couro", 'r', false, 0, 0);
         jogador.getInventario().adicionarItem(espadaCurta);
         jogador.getInventario().adicionarItem(armaduraDeCouro);
-        jogador.getInventario().adicionarTesouro(1000);
+        jogador.getInventario().adicionarTesouro(100);
+        //Exibe os atributos e inventário do jogador
         jogador.exibirInformacoes();
 
+        //Configura o jogador e inicia a primeira cena do jogo
         Jogo.setJogador(jogador);
         Jogo.setCenaAtual(1);
+        TelaJogo.iniciar();
     }
 
+    //Exibe as informações do personagem e seu inventário durante o jogo;
+    //É acessível a qualquer momento digitando "i" nas cenas.
     public static void mostrarInventario(Jogador jogador) {
+        EstilizacaoTela.limparTela();
         Scanner scanner = new Scanner(System.in);
-        EstilizacaoTela.centralizar("Info", 50);
+        EstilizacaoTela.centralizar("--- Info ---", 70);
         jogador.exibirInformacoes();
+        System.out.println();
+        EstilizacaoTela.centralizar("Pressione ENTER para voltar", 70);
     }
 
 }
