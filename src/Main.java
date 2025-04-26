@@ -47,7 +47,7 @@ public class Main {
             //Ler arquivos: 100%
             //Salvar arquivos: 100%
             //Carregar arquivos: 50% (carrega, mas não continua o jogo)
-            //Tetar sorte: 0%
+            //Testar sorte: 0%
 
         //História: 50% (Já tá tudo escrito, só preciso adicionar o resto e trduzir para português)
     }

@@ -18,6 +18,11 @@ public class ProcessarArquivos {
     private int modificadorProvisoes = 0;
     private int cenaVitoria;
     private int cenaDerrota;
+    private boolean testeDeSorte = false;
+    private int cenaSucessoSorte;
+    private int cenaFracassoSorte;
+    private String descricaoSucessoSorte;
+    private String descricaoFracassoSorte;
 
     //Getters e setters
     public int getNumeroCena() { return numeroCena; }
@@ -52,4 +57,18 @@ public class ProcessarArquivos {
     public int getCenaDerrota() { return cenaDerrota; }
     public void setCenaDerrota(int cenaDerrota) { this.cenaDerrota = cenaDerrota; }
 
+    public boolean isTesteDeSorte() { return testeDeSorte; }
+    public void setTesteDeSorte(boolean testeDeSorte) { this.testeDeSorte = testeDeSorte; }
+
+    public int getCenaSucessoSorte() { return cenaSucessoSorte; }
+    public void setCenaSucessoSorte(int cenaSucessoSorte) { this.cenaSucessoSorte = cenaSucessoSorte; }
+
+    public int getCenaFracassoSorte() { return cenaFracassoSorte; }
+    public void setCenaFracassoSorte(int cenaFracassoSorte) { this.cenaFracassoSorte = cenaFracassoSorte; }
+
+    public String getDescricaoSucessoSorte() { return descricaoSucessoSorte; }
+    public void setDescricaoSucessoSorte(String descricao) { this.descricaoSucessoSorte = descricao; }
+
+    public String getDescricaoFracassoSorte() { return descricaoFracassoSorte; }
+    public void setDescricaoFracassoSorte(String descricao) { this.descricaoFracassoSorte = descricao; }
 }

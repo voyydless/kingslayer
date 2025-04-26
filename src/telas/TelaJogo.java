@@ -88,6 +88,7 @@ public class TelaJogo {
                 continue;
             }
 
+
             //Exibe as opções para próxima cena, mudando o número das opções para ser sempre 1,2,...etc, para melhorar visibilidade
             System.out.println("\nEscolhas:");
             Map<Integer, Integer> mapaOpcoes = new LinkedHashMap<>();
@@ -97,6 +98,39 @@ public class TelaJogo {
                 mapaOpcoes.put(i, opcaoDigitada.getKey()); // i = opção visível, getKey = número real da cena
                 System.out.println(i + " - " + opcaoDigitada.getValue());
                 i++;
+            }
+
+            // Verificar se é um teste de sorte
+            if (cena.isTesteDeSorte()) {
+                System.out.println("Testar sua sorte para um caminho alternativo:");
+                System.out.println("Sorte atual: " + jogador.getSorte() + " | Abaixo disso, será sucesso. Acima, será fracasso.");
+
+                System.out.println("Sucesso - " + cena.getDescricaoSucessoSorte());
+                System.out.println("Fracasso - " + cena.getDescricaoFracassoSorte());
+
+                System.out.println("Pressione ENTER para rolar um d12.");
+                scanner.nextLine();
+                scanner.nextLine(); // Aguarda o jogador pressionar ENTER
+
+                boolean sucesso = jogador.testarSorte();
+
+                if (sucesso) {
+                    // Navegar para a cena de sucesso
+                    cenaAtual = cena.getCenaSucessoSorte();
+                    System.out.println("\nSucesso!");
+                    System.out.println("Pressione ENTER para seguir em frente");
+                    scanner.nextLine();
+                } else {
+                    // Navegar para a cena de fracasso
+                    cenaAtual = cena.getCenaFracassoSorte();
+                    System.out.println("\nFracasso...");
+                    System.out.println("Pressione ENTER para seguir em frente");
+                    scanner.nextLine();
+                }
+
+                // Atualiza a cena atual no estado do jogo
+                Jogo.setCenaAtual(cenaAtual);
+                continue; // Pula para a próxima iteração do loop
             }
 
             //Opção especial: digitar "i" para ver inventário

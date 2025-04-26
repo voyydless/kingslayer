@@ -1,6 +1,6 @@
-CenaAtual:1
-CenasVistas:1
-Nome:Teste
+CenaAtual:10
+CenasVistas:1,2,3,5,10
+Nome:w
 Habilidade:10
 Energia:16
 Sorte:10

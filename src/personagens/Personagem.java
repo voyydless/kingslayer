@@ -21,6 +21,7 @@ public class Personagem {
     public int getHabilidade() { return habilidade; }
     public int getEnergia() { return energia; }
     public int getSorte() { return sorte; }
+    public void setSorte(int sorte) { this.sorte = sorte; }
     //Define uma nova energia;
     //Usado pelo jogador ao consumir provisões.
     public void setEnergia(int novaEnergia) { this.energia = novaEnergia; }

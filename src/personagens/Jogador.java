@@ -37,7 +37,6 @@ public class Jogador extends Personagem {
         }
     }
 
-    //Funcionalidade incompleta!!
     //Usa uma provisão do inventário;
     //Restaura até 4 pontos de energia, respeitando o limite da energia máxima.
     public boolean usarProvisao() {
@@ -49,6 +48,20 @@ public class Jogador extends Personagem {
         } else {
             return false;
         }
+    }
+
+    public boolean testarSorte() {
+        if (getSorte() <= 0) {
+            System.out.println("Sua sorte já acabou.");
+            return false;
+        }
+        int dado = (int) (Math.random() * 12) + 1; //Gera número de 1 a 12
+        System.out.println("Você rolou: " + dado);
+
+        boolean sucesso = dado <= getSorte();
+
+        setSorte(getSorte() - 1);
+        return sucesso;
     }
 
     //Exibe as informações do jogador no console
@@ -77,4 +90,5 @@ public class Jogador extends Personagem {
     public Item getArmaEquipada() { return armaEquipada; }
     public Item getArmaduraEquipada() { return armaduraEquipada; }
     public void setEnergiaMaxima(int energiaMaxima) { this.energiaMaxima = energiaMaxima; }
+
 }

@@ -19,7 +19,7 @@ public class LeitorDeArquivos {
 
         //Abre o aqruivo da cena para leitura, usando BufferedReader para ler linha por linha;
         //linha = br.readLine() chama o método readLine() no objeto br, atribuindo o conteúdo lido à variável linha.
-        try(BufferedReader br = new BufferedReader(new FileReader(caminho))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(caminho))) {
             String linha = br.readLine();
 
             //É combate?
@@ -28,7 +28,7 @@ public class LeitorDeArquivos {
             if (linha != null && linha.trim().equalsIgnoreCase("m")) {
                 cena.setCombate(true);
 
-                while((linha = br.readLine()) != null && !linha.startsWith("N:")) {
+                while ((linha = br.readLine()) != null && !linha.startsWith("N:")) {
                     texto.append(linha).append("\n");
                 }
                 cena.setTexto(texto.toString().trim());
@@ -80,6 +80,8 @@ public class LeitorDeArquivos {
 
 
             } else {
+                boolean encontrouSorte = false;
+
                 while ((linha = br.readLine()) != null) {
                     //Tem item?
                     //Se sim, mesmo que o processo de leitura de item com o inimigo.
@@ -102,46 +104,53 @@ public class LeitorDeArquivos {
                         int valor = Integer.parseInt(linha.substring(2).trim());
                         cena.setModificadorTesouro(valor);
 
+                        //Tem provisão?
+                        //Se sim, converte o valor descrito no arquivo para integer--
+                        //e registra na cena que as provisões do jogador devem ser modificadas.
                     } else if (linha.startsWith("P:")) {
                         int quantia = Integer.parseInt(linha.substring(2).trim());
                         cena.setModificadorProvisoes(quantia);
 
+                        // Verificação de teste de sorte
+                    } else if (linha.startsWith("SORTE")) {
+                        cena.setTesteDeSorte(true);
+                        encontrouSorte = true;
+
                         //É uma opção?
-                        //Se sim, saímos do loop com break, vamos tratar isso depois.
                     } else if (linha.startsWith("#")) {
-                        break;
+                            String[] partes = linha.substring(1).split(":");
+                            int destino = Integer.parseInt(partes[0].trim());
+                            String descricao = partes[1].trim();
 
-                        //Não tem nada disso? Então ainda é a história;
-                        //Acumula no StringBuilder.
-                    } else {
-                        texto.append(linha).append("\n");
+                            if (encontrouSorte) {
+                                // Se já encontramos SORTE e ainda não temos destino de sucesso
+                                if (cena.getCenaSucessoSorte() == 0) {
+                                    cena.setCenaSucessoSorte(destino);
+                                    cena.setDescricaoSucessoSorte(descricao);
+                                }
+                                // Se já temos destino de sucesso mas não de fracasso
+                                else if (cena.getCenaFracassoSorte() == 0) {
+                                    cena.setCenaFracassoSorte(destino);
+                                    cena.setDescricaoFracassoSorte(descricao);
+                                }
+                            } else {
+                                // Se não encontramos SORTE ainda, é uma opção normal
+                                cena.adicionarOpcao(destino, descricao);
+                            }
+                        }
+                        //Não tem nada disso? Então ainda é a história
+                        else {
+                            texto.append(linha).append("\n");
+                        }
                     }
+
+                    cena.setTexto(texto.toString().trim());
                 }
 
-                //Transforma todo o conteúdo do StringBuilder em uma String final;
-                cena.setTexto(texto.toString().trim());
-
-                //Processando as opções;
-                //Primeiro, divide a linha no ":";
-                //A primeira parte é guardado como número da cena destino, sendo convertido para integer, a segunda é guardado como descrição do que a opção seria;
-                //Por último, a opção é adicionada à cena.
-                while (linha != null && linha.startsWith("#")) {
-                    String[] partes = linha.substring(1).split(":");
-
-                    int destino = Integer.parseInt(partes[0].trim());
-                    String descricao = partes[1].trim();
-                    cena.adicionarOpcao(destino, descricao);
-
-                    linha = br.readLine();
-                }
+                return cena;
+            } catch(IOException e) {
+                System.out.println("Erro ao ler arquivo: " + e.getMessage());
+                return null;
             }
-            // Se ocorrer qualquer problema durante a leitura do arquivo,
-            //essa parte captura o erro e imprime uma mensagem explicando o que aconteceu.
-        } catch (IOException e) {
-            System.out.println("Erro ao ler arquivo: " + e.getMessage());
         }
-
-        return cena;
     }
-
-}
