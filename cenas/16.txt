@@ -13,6 +13,7 @@ As you pick the tray up, you notice something under it; a note.
 'It's waiting for you. If you mean to keep going, go soon.'
 
 No name, no signature. You don't know who it's from, but you know it's for you.
+A door creaks downstairs. Whoever had left it was leaving.
 
 #17: Search the room for more clues.
 #18: Pack the note and leave.

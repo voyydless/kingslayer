@@ -22,5 +22,5 @@ S: 10
 E: 18
 T: 15
 P: 1
-I: Mismatched Armour;r;0;
+I: Mismatched Armour;r;0;1;1
 21;22

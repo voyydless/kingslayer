@@ -1,10 +1,12 @@
-CenaAtual:10
-CenasVistas:1,2,3,5,10
-Nome:w
+CenaAtual:20
+CenasVistas:16,1,2,18,3,20,5,10,13
+Nome:teste
 Habilidade:10
 Energia:16
 Sorte:10
 Tesouro:100
-Provisoes:1
+Provisoes:3
 Item:Espada curta;w;true;1;0
 Item:Armadura de Couro;r;false;0;0
+Item:Rusted Long Sword;w;true;2;1
+Item:Mysterious Note;c;false;0;0

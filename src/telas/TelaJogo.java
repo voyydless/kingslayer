@@ -88,79 +88,73 @@ public class TelaJogo {
                 continue;
             }
 
-
-            //Exibe as opções para próxima cena, mudando o número das opções para ser sempre 1,2,...etc, para melhorar visibilidade
+            // Exibe as opções para próxima cena
             System.out.println("\nEscolhas:");
             Map<Integer, Integer> mapaOpcoes = new LinkedHashMap<>();
             int i = 1;
 
             for (Map.Entry<Integer, String> opcaoDigitada : cena.getOpcoes().entrySet()) {
-                mapaOpcoes.put(i, opcaoDigitada.getKey()); // i = opção visível, getKey = número real da cena
+                mapaOpcoes.put(i, opcaoDigitada.getKey());
                 System.out.println(i + " - " + opcaoDigitada.getValue());
                 i++;
             }
 
-            // Verificar se é um teste de sorte
+            // Mostrar opção de teste de sorte se disponível
             if (cena.isTesteDeSorte()) {
-                System.out.println("Testar sua sorte para um caminho alternativo:");
-                System.out.println("Sorte atual: " + jogador.getSorte() + " | Abaixo disso, será sucesso. Acima, será fracasso.");
-
-                System.out.println("Sucesso - " + cena.getDescricaoSucessoSorte());
-                System.out.println("Fracasso - " + cena.getDescricaoFracassoSorte());
-
-                System.out.println("Pressione ENTER para rolar um d12.");
-                scanner.nextLine();
-                scanner.nextLine(); // Aguarda o jogador pressionar ENTER
-
-                boolean sucesso = jogador.testarSorte();
-
-                if (sucesso) {
-                    // Navegar para a cena de sucesso
-                    cenaAtual = cena.getCenaSucessoSorte();
-                    System.out.println("\nSucesso!");
-                    System.out.println("Pressione ENTER para seguir em frente");
-                    scanner.nextLine();
-                } else {
-                    // Navegar para a cena de fracasso
-                    cenaAtual = cena.getCenaFracassoSorte();
-                    System.out.println("\nFracasso...");
-                    System.out.println("Pressione ENTER para seguir em frente");
-                    scanner.nextLine();
-                }
-
-                // Atualiza a cena atual no estado do jogo
-                Jogo.setCenaAtual(cenaAtual);
-                continue; // Pula para a próxima iteração do loop
+                System.out.println("d - Testar sua sorte (Sorte atual: " + jogador.getSorte() + ") | Abaixo disso, será sucesso. Acima, será fracasso.");
+                System.out.println("   Sucesso: " + cena.getDescricaoSucessoSorte());
+                System.out.println("   Fracasso: " + cena.getDescricaoFracassoSorte());
             }
 
             //Opção especial: digitar "i" para ver inventário
             System.out.println("\nDigite o número da cena desejada ou 'i' para abrir o inventário:");
-            String entrada = scanner.next();
+            String entrada = scanner.next(); // Usa apenas next() para evitar problemas com o buffer
 
+            // Processar a entrada do jogador
             if (entrada.equalsIgnoreCase("i")) {
+                // Abrir inventário
                 TelaInventario.mostrarInventario(jogador);
-                scanner.nextLine();
-                scanner.nextLine();
+                scanner.nextLine(); // Limpa o buffer
                 continue;
+            } else if (entrada.equalsIgnoreCase("d") && cena.isTesteDeSorte()) {
+                // Testar sorte
+                System.out.println("Rolando um d12...");
+                boolean sucesso = jogador.testarSorte();
+
+                if (sucesso) {
+                    System.out.println("\nSucesso!");
+                    cenaAtual = cena.getCenaSucessoSorte();
+                } else {
+                    System.out.println("\nFracasso...");
+                    cenaAtual = cena.getCenaFracassoSorte();
+                }
+                System.out.println("Pressione ENTER para continuar");
+                scanner.nextLine(); // Limpa o buffer
+                scanner.nextLine(); // Espera o ENTER
+
+                Jogo.setCenaAtual(cenaAtual);
+                continue;
+
+            } else {
+                // Processar escolha numérica
+                try {
+                    int escolhaVisivel = Integer.parseInt(entrada);
+                    if (mapaOpcoes.containsKey(escolhaVisivel)) {
+                        int cenaDestino = mapaOpcoes.get(escolhaVisivel); // pega o número real da cena
+                        cenaAtual = cenaDestino;
+                        Jogo.setCenaAtual(cenaAtual);
+                    } else {
+                        System.out.println("Opção inválida. Pressione ENTER para continuar");
+                        scanner.nextLine(); // Limpa o buffer
+                        scanner.nextLine(); // Espera o ENTER
+                    }
+                } catch (NumberFormatException e) {
+                    System.out.println("Entrada inválida. Pressione ENTER para continuar");
+                    scanner.nextLine(); // Limpa o buffer
+                    scanner.nextLine(); // Espera o ENTER
+                }
             }
 
-            //Processa a escolha do jogador
-            try {
-                int escolhaVisivel = Integer.parseInt(entrada);
-                if (mapaOpcoes.containsKey(escolhaVisivel)) {
-                    int cenaDestino = mapaOpcoes.get(escolhaVisivel); // pega o número real da cena
-                    Jogo.setCenaAtual(cenaDestino);
-                    cenaAtual = cenaDestino;
-                } else {
-                    System.out.println("Opção inválida. Pressione ENTER para tentar novamente.");
-                    scanner.nextLine();
-                    scanner.nextLine();
-                }
-            } catch (NumberFormatException e) {
-                System.out.println("Entrada inválida. Pressione ENTER para tentar novamente.");
-                scanner.nextLine();
-                scanner.nextLine();
-            }
         }
     }
 }
