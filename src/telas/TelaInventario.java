@@ -167,8 +167,8 @@ public class TelaInventario {
         for (Item item : jogador.getInventario().getItens()) {
             if (item.getTipo() == 'w') {
                 System.out.println(i + " - " + item.getNome());
+                i++;
             }
-            i++;
         }
 
         System.out.println("Digite o número da arma que deseja equipar: ");
@@ -194,8 +194,8 @@ public class TelaInventario {
         for (Item item : jogador.getInventario().getItens()) {
             if (item.getTipo() == 'r') {
                 System.out.println(i + " - " + item.getNome());
+                i++;
             }
-            i++;
         }
 
         System.out.println("Digite o número da armadura que deseja equipar: ");

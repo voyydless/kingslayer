@@ -1,5 +1,5 @@
 CenaAtual:20
-CenasVistas:16,1,2,18,3,20,5,10,13
+CenasVistas:16,1,2,18,3,20,5,10
 Nome:teste
 Habilidade:10
 Energia:16
