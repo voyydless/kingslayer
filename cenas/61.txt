@@ -1,18 +1,18 @@
 m
-You turn toward the swifter threat. Leporidae.
-She darts between buildings— a shadow in motion, hooded and pale-eyed, her armor a
-patchwork of the finest leather. Twin blades gleam in each hand, both already slick with
-something that isn’t water.
-She whistles, shrill— a distraction.
-You duck, narrowly dodging the dagger hurled from above.
-She descends in a blink.
-A flurry of strikes— too fast to meet head-on. If you parry one, you miss the second.
+Você se vira em direção à ameaça mais veloz. Leporidae.
+Ela se move entre os prédios— uma sombra em movimento, encapuzada e de olhos pálidos,
+sua armadura um mosaico do couro mais refinado que já viu. Lâminas gêmeas brilham em cada mão,
+ambas já manchadas com algo que não é água.
+Ela assovia, agudo— uma distração.
+Você se abaixa, desviando por pouco da adaga arremessada de cima.
+Ela desce num piscar de olhos.
+Uma rajada de golpes, rápidos demais para enfrentar de frente. Se você aparar um, erra o segundo.
 
-N: Leporidae Soldier
+N: Soldada Leporidae
 H: 18
 S: 6
 E: 12
 T: 10
 P: 1
-I: Thick Leather Armour;r;0;0;3
+I: Armadura de Couro Refinado;r;0;0;3
 64;65

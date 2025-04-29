@@ -32,7 +32,7 @@ public class TelaJogo {
 
             // Verifica se a cena atual é o fim do jogo
             if (cena.isFimDoJogo()) {
-                EstilizacaoTela.centralizar("\n--- FIM ---", 70);
+                EstilizacaoTela.centralizar("--- FIM ---", 70);
                 EstilizacaoTela.centralizar("Obrigado por jogar! (˶˃ ᵕ ˂˶)", 70);
                 break; // Encerra o loop principal do jogo
             }

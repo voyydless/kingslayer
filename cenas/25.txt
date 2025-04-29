@@ -1,17 +1,17 @@
 #25
-You sit on the bed, sketch in hand. The tree feels... familiar. Not just from dreams, but
-from somewhere real, something buried in your memory.
-As you stare, the lines seem to shift. The roots writhe against the page, snaking toward your fingers.
-You drop it with a curse.
+Você se senta na cama, o esboço na mão. A árvore parece... familiar. Não apenas de seus sonhos,
+mas de algum lugar real, algo enterrado em sua memória. Enquanto você observa, as linhas parecem
+se mover. As raízes se contorcem na página, rastejando em direção aos seus dedos.
+Você a solta com um xingamento.
 
-At the edge of your vision, the window shows the street outside— only now, dozens of shadowy figures
-line the road, standing motionless, all facing the tavern. Waiting.
-Was it for you?
-You hear the tavern door creak open downstairs.
-The same exact sound you heard before.
+Na sua visão periférica, a janela mostra a rua lá fora— agora, dezenas de figuras sombrias alinham
+a estrada, imóveis, todas voltadas para a taberna. Esperando.
+Era por você?
+Você ouve a porta da taberna rangendo lá embaixo.
+O mesmo som exato que você ouviu antes.
 
-Something is terribly wrong, you're not awake.
+Algo está terrivelmente errado, você não está acordado.
 
-#26: Force yourself to wake up.
-#27: Descend further into the dream.
-#28: Rip up the drawing, it must be causing this.
+#26: Forçar-se a acordar.
+#27: Descer mais fundo no sonho.
+#28: Rasgar o desenho, deve ser ele que está causando isso.

@@ -1,10 +1,10 @@
 #38
-Steel meets flesh.
-The creature gives a thin, wet gasp— like air leaving a punctured lung, and collapses
-at your feet. Still at last.
-You wipe your blade on the moss, though the stain will never come out.
-Death is mercy, you aim to provide it.
+A lâmina encontra a carne.
+A criatura emite um suspiro fino e úmido— como o ar saindo de um pulmão perfurado,
+e desaba aos seus pés. Fica imóvel, por fim.
+Você limpa sua lâmina na musgo, embora a mancha nunca saia.
+A morte é uma misericórdia, e você se propôs a oferecê-la.
 
-You move on, leaving the twice-over dead man without a second glance.
+Você segue em frente, deixando o homem duplamente morto sem um segundo olhar.
 
-#52: Move forward, the Royal city is close by.
+#52: Avançar, a cidade real está perto.

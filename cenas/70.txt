@@ -1,19 +1,20 @@
 m
-The King moves like a statue collapsing— slow, deliberate, heavy.
-Yet each strike crashes like a thunderclap. You dodge, barely. You parry, barely. You bleed, freely.
+O Rei se move como uma estátua desmoronando— lento, deliberado, pesado.
+Ainda assim, cada golpe ecoa como um trovão. Você desvia, por pouco.
+Você apara, por pouco. Você sangra, livremente.
 
-He puts in no real effort. No rage. No fury.
-This is not a man trying to live.
-This is a man waiting to die.
+Ele não coloca esforço real. Sem raiva. Sem fúria.
+Esse não é um homem tentando viver.
+É um homem esperando morrer.
 
-And that makes him dangerous.
-You fight. You endure. You give it everything.
+E isso o torna perigoso.
+Você luta. Você resiste. Você dá tudo de si.
 
-N: The King
+N: O Rei
 H: 12
 S: 12
 E: 24
 T: 0
 P: 0
-I: The Crown;r;0;10;10
+I: A Coroa;r;0;10;10
 71;72

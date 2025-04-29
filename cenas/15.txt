@@ -1,18 +1,20 @@
 #15
-"Came into Mensfield a couple weeks ago, hasn't left since." His voice
-gets quieter as he continues to speak, both of you sneaking discreet glances
-at the man. His armour’s stained, dented. The gold trim is mostly flaked off. If
-you were any closer, you'd be able to look at the details and guess his rank.
-"No one's cared to ask, but it's safe to assume he was banished. Messed up big time,
-King turned him Rotten... I'd reckon it's something along those lines."
-The King's Men never turned Rotten. That's what they all said. The King held them in
-high regard, kept them safe. Even those who never had the esteem of meeting him.
-Children across the kingdom were trained to become King's Men from the moment they
-turned seven. Ursae, Leporidae, Corvidae. Strength, speed or wit. It was to be
-your identify for the rest of your life.
-Unless, of course, you threw your life away.
-"Turned him Rotten so he sent him here... like our land needs any more of that." The man
-scoffed as he spoke.
-His disdain for royalty was clear, he shared it with all the freefolk.
+"Ele chegou em Mensfield há umas semanas, não saiu desde então."
+A voz dele vai ficando mais baixa enquanto continua a falar, ambos trocando olhares
+discretos com o homem. A armadura dele está manchada, amassada. A faixa dourada já
+quase se desfez. Se você estivesse mais perto, conseguiria observar os detalhes e adivinhar sua patente.
+"Ninguém se importou em perguntar, mas é seguro supor que ele foi banido. Fez uma grande cagada,
+o Rei o transformou em Podrido... Aposto que é algo nesse sentido."
 
-#8: “Is there a room I could stay in? I have the gold to pay.”
+Os Homens do Rei nunca se tornavam Podridos. Era o que todos diziam.
+O Rei os tratava com grande respeito, mantinha-os seguros.
+Até mesmo aqueles que nunca tiveram a honra de encontrá-lo.
+Crianças por todo o reino eram treinadas para se tornar Homens do Rei desde os sete anos.
+Ursae, Leporidae, Corvidae. Força, velocidade ou astúcia. Era para ser sua identidade pelo resto da vida.
+A não ser, é claro, que você jogasse sua vida fora.
+
+"Transformou-o em Podrido e o mandou pra cá... como se nossa terra precisasse de mais disso."
+O homem fez uma expressão de desdém enquanto falava.
+O desprezo dele pela realeza era claro, ele o compartilhava com todos os homens livres.
+
+#8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”

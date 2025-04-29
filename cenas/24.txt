@@ -1,16 +1,16 @@
 #24
-You leave the paper on the bed and press on, searching the walls, the floor, the corners.
-There’s a heaviness to the air now, like the room itself is watching.
-You check the window— outside, the streets are... wrong.
-Too still. The gray sky looks painted on, unmoving.
-No wind.
-No sound.
-You blink.
-The stew on the table is steaming again; fresh, warm. It was as cold as ice
-when you'd first woken up, you hear the same creaking of the stranger exiting the tavern.
-Looking down, the note is back in your hand.
-A distorted voice from beneath the bed hisses in a language you couldn't understand,
-but you knew what it was saying: 'You'll never wake up.'
+Você deixa o papel na cama e segue em frente, vasculhando as paredes, o chão, os cantos.
+Há um peso no ar agora, como se o próprio quarto estivesse observando.
+Você verifica a janela— do lado de fora, as ruas estão... erradas.
+Muito quietas. O céu cinza parece pintado, imóvel.
+Nenhum vento.
+Nenhum som.
+Você pisca.
+A sopa na mesa está fumegando; fresca, quente. Estava tão fria quanto gelo quando você primeiro
+acordou, e você ouve o mesmo rangido do estranho saindo da taberna.
+Olhando para baixo, o bilhete está de volta na sua mão.
+Uma voz distorcida debaixo da cama sibila em uma língua que você não entende, mas você sabia o
+que estava dizendo: 'Você nunca acordará novamente.'
 
-#26: Force yourself to wake up.
-#27: Descend further into the dream.
+#26: Forçar-se a acordar.
+#27: Descer mais fundo no sonho.

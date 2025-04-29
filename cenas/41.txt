@@ -1,14 +1,15 @@
 #41
-The air grows colder as you walk. The last crust of bread sticks like ash in your throat.
-You press forward.
-And there, in a clearing just ahead —
-A figure.
-Too tall, too thin, wrapped in robes of bark and blackened skin, face hidden behind
-a mask. It stretches out a hand, beckoning you to follow —
-You'd seen this exact gesture in your dreams.
+O ar fica mais frio à medida que você anda. A última crosta de pão gruda como cinzas na sua garganta.
+Você avança.
+E ali, em uma clareira logo à frente—
+Uma figura.
+Alta demais, magra demais, envolta em vestes de casca e pele queimada, o rosto escondido
+atrás de uma máscara. Ela estende uma mão, chamando você para seguir—
+Você viu esse gesto exato em seus sonhos.
 
-Something deep inside you recoils.
-Yet you know this was always meant to happen.
+Algo dentro de você se retrai.
+Ainda assim, você sabe que isso sempre foi destinado a acontecer.
 
-#42: Approach the figure.
-#33: Turn back, there's still time go back to the crosspath.
+#42: Aproximar-se da figura.
+#33: Voltar, ainda há tempo de retornar à bifurcação.
+

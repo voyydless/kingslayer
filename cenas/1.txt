@@ -1,9 +1,9 @@
 #1
-There’s a town just up ahead.
-It’s small, falling to pieces, composed mostly of families that had been farmers for
-generations and people who would rather be poor & free than tied to the societal chains
-of the city that loomed over them. You could see it in the distance, at the top of a hill;
-the castle’s visage was as beautiful as it was horrifying, just knowing he was in there was
-enough to send a chill down anyone’s spine.
+Há uma vila logo à frente.
+Pequena, em ruínas, habitada por famílias que cultivavam a terra havia gerações, e por
+almas que preferiam a pobreza e a liberdade às correntes invisíveis da cidade que se erguia
+ao longe. De onde você estava, podia vê-la no alto da colina; a silhueta do castelo era tão
+bela quanto aterrorizante— só de saber que quem se encontrava lá dentro bastava para causar
+arrepios em qualquer um.
 
-#2: There’s no time to waste. Keep moving forward
+#2: Não há tempo a perder. Continue em frente.

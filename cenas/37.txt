@@ -1,13 +1,13 @@
 m
-You draw your weapon.
-The Rotten shudders at the sound; some final, broken instinct stirring inside its ruined
-mind. It lifts its head. One eye dangles loose, barely tethered by a thread of sinew.
-Its jaw works soundlessly, mouthing a prayer it can no longer remember.
+Você saca sua arma.
+O Apodrecido estremece com o som; algum instinto final e quebrado se agita dentro de sua mente
+destruída. Levanta a cabeça. Um olho pende solto, mal preso por um fio de tendão.
+Sua mandíbula se move sem emitir som, murmurando uma oração que já não pode mais lembrar.
 
-You don't hesitate.
-You step forward—
+Você não hesita.
+Dá um passo à frente—
 
-N: Rotten
+N: Apodrecido
 H: 10
 S: 6
 E: 10

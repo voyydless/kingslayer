@@ -1,14 +1,13 @@
 #66
-The streets narrow. Cobblestone veins twist between rotting houses, their doors
-long-since splintered by either time or desperation. Their inhabitants stay inside, watching you.
-The close you get to the castle, the more luxuriou the housing becomes, yet none seem to
-have escaped from the passage of time. You’ve been walking for hours.
-There was an ache behind your knees, s weight in your shoulders.
-The city stretches on like a grave that forgot to end.
+As ruas se estreitam. Veias de paralelepípedos se torcem entre casas apodrecidas,
+com portas estilhaçadas— pelo tempo ou pelo desespero. Seus habitantes permanecem dentro, observando você.
+Quanto mais se aproxima do castelo, mais luxuosas parecem as moradias, mas nenhuma escapou da passagem do tempo.
+Você anda há horas.
+Há uma dor atrás dos joelhos, um peso nos ombros.
+A cidade se estende como um túmulo que esqueceu de terminar.
 
-You pass a fountain. Once marble, now sickly green, crusted with moss.
-At its center, a statue of the first king of this land— head missing, vines crawling up the empty
-space where a crown once sat. You wonder if he’d weep, if he could see what his bloodline wrought.
+Você passa por uma fonte. Antes de mármore, agora verde doente, coberta de musgo.
+No centro, uma estátua do primeiro rei desta terra— sem cabeça, com vinhas subindo pelo vazio
+onde antes havia uma coroa. Você se pergunta se ele choraria, se pudesse ver o que sua linhagem causou.
 
-#68: Enter the gates.
-
+#68: Entre pelos portões.

@@ -1,22 +1,23 @@
 #13
-"You're awful bad a playing dumb, I know the look in your eyes. You know why"
-You did. "It's all because of him."
-The King. No one alive was old enough to remember a time before him, but
-tales were told, books were read— people dreamt about what life was like before
-the Rot took root. They say grass used to be green, trees used to have leaves;
-rivers were full and the rain didn't burn your skin.
-People still died, sometimes horribly, but never a death so awful as the one
-that slowly eats you inside out, turning your organs into those of a corpse while
-you struggled to live on. Animals sometimes still suffered losses,
-but never so much as having an entire litter be born as wriggling corpses.
-"When my forefathers build up Mensfield, it was a place men came to be free. Now,
-it's where the King sends his Rotten soldiers to die, to infect our land even further."
+"Você é péssimo fingindo ignorância. Conheço esse olhar. Você sabe o porquê."
+Você sabia. "É tudo por causa dele."
+O Rei. Ninguém vivo era velho o bastante pra se lembrar de um tempo antes dele,
+mas histórias eram contadas, livros lidos— as pessoas sonhavam com como era a vida antes
+da Podridão se enraizar. Diziam que a grama já foi verde, que as árvores tinham folhas;
+que os rios eram cheios, e a chuva não queimava a pele.
 
-"Do you believe the Rot will die when he does?" You ask.
-"Does it make a difference what I think?"
-"No."
-He laughs. "Rest well."
+As pessoas ainda morriam, às vezes de formas horríveis, mas nunca uma morte tão cruel quanto
+a que devora você de dentro pra fora, transformando seus órgãos nos de um cadáver enquanto
+você continua tentando viver. Os animais também sofriam perdas, mas nunca ao ponto de ver
+uma ninhada inteira nascer como cadáveres contorcidos.
 
-You'll try. You'll need it.
+"Quando meus antepassados fundaram Mensfield, era um lugar onde homens vinham para ser livres.
+Agora, é onde o Rei manda seus soldados Apodrecidos pra morrer, infectando ainda mais nossa terra."
+"Você acredita que a Podridão vai morrer quando ele morrer?" você pergunta.
+"Faz diferença o que eu penso?"
+"Não."
+Ele ri. "Descanse bem."
 
-#16: You settle into the room. Next thing you know, it's morning.
+Você vai tentar. Vai precisar.
+
+#16: Você se acomoda no quarto. Quando se dá conta, já é manhã.

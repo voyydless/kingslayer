@@ -1,14 +1,15 @@
 #28
-You tear the sketch in half, then quarters. The moment it splits, the tavern screams.
-The walls collapse into black ash, sucked into a void that roars like a beast.
-You fall, spinning, your limbs flailing in weightless terror.
-When you land, it is on something massive and alive— a thick root, pulsing under your hands.
-It stretches into the endless dark, twisting into infinity.
-Everything reeks of rot, if you're here for too long, it'll consume you.
-You need to act.
+Você rasga o esboço ao meio, depois em quatro partes. No instante em que o papel se parte,
+a taverna grita. As paredes desabam em cinzas negras, sugadas para um vazio que ruge como
+uma besta faminta. Você cai, girando, os membros se debatendo num terror sem peso.
 
-Your conscious allows you to do one thing.
+Quando aterra, é sobre algo imenso e vivo— uma raiz grossa, pulsando sob suas mãos.
+Ela se estende na escuridão infinita, torcendo-se além do que os olhos alcançam.
+Tudo fede à podridão. Se permanecer aqui por muito tempo, ela vai te consumir.
+Você precisa agir.
+
+Sua consciência permite fazer apenas uma coisa.
 
 SORTE
-#31: Follow the root.
-#29: Cut the root.
+#31: Seguir a raiz.
+#29: Cortar a raiz.

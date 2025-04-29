@@ -1,20 +1,21 @@
 #30
-You fall to your knees before the tree.
-It leans down, its bark splitting, black sap oozing toward you like a living thing.
-You do not resist. It sinks into your wounds, into your mouth, into your eyes.
-You feel yourself unraveling, thread by thread, memory by memory.
+Você cai de joelhos diante da árvore.
+Ela se inclina, a casca se abrindo, a seiva negra escorrendo em sua direção como algo vivo.
+Você não resiste. Ela penetra em suas feridas, em sua boca, em seus olhos.
+Você se sente se desfazer, fio por fio, lembrança por lembrança.
 
-When you open your eyes again, you are standing in the place you've always wanted to be:
-The castle, one room away from the man you were going to kill.
-You feel strong. Whole.
-You feel nothing at all.
-You look down at your arm— it is untouched, pristine.
-But when you move, the skin beneath it cracks and weeps black rot.
+Quando abre os olhos novamente, está exatamente onde sempre quis estar:
+O castelo, a uma sala de distância do homem que jurou matar.
+Você se sente forte. Completo.
+Você não sente nada.
 
-You smile, but you do not know why.
+Olha para seu braço— está intacto, impecável.
+Mas ao se mover, a pele sob ele se racha e verte podridão negra.
 
-The king waits.
+Você sorri, mas não sabe por quê.
 
-I: Rotted Arm;w;1;5;5
+O rei espera.
 
-#59: Go.
+I: Braço Apodrecido;w;1;5;5
+
+#59: Vá.

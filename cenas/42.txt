@@ -1,20 +1,20 @@
 #42
-You step closer.
-The clearing feels wrong.
-The ground breathes beneath your feet.
-The trees sway not with the wind, but to the rhythm of some ancient, wordless song.
-The figure watches in silence.
+Você dá um passo mais perto.
+A clareira parece errada.
+O chão respira sob seus pés.
+As árvores balançam não com o vento, mas ao ritmo de uma antiga e muda canção.
+A figura observa em silêncio.
 
-And then it speaks.
+E então ela fala.
 
-Its voice is not spoken aloud, but you feel it, like hands pulling threads inside your chest.
-"Strange. You bear the stink of the Rot, yet you are not yet claimed by it."
+Sua voz não é falada em voz alta, mas você a sente, como mãos puxando fios dentro do seu peito.
+"Estranho. Você carrega o fedor da Podridão, mas ainda não foi reclamado por ela."
 
-A pause. Heavy, cold.
+Uma pausa. Pesada, fria.
 
-"You seek to cut the rot from its root."
-The mask tilts slightly.
-"But would you offer yourself in trade?"
+"Você busca cortar a podridão pela raiz."
+A máscara se inclina ligeiramente.
+"Mas você se ofereceria em troca?"
 
-#43: Speak to it.
-#49: Draw your weapon.
+#43: Falar com ela.
+#49: Sacar sua arma.

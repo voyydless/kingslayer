@@ -1,15 +1,17 @@
 #8
-"Aye," He glances at the pouch of gold tied to your hip. "We got room."
-Tilting his head to the left, he signals towards a corridor. "5 gold a night".
-"Done." You say, tossing the coins on the table and taking your leave.
-"Be careful!" Adds the plump woman standing to his side. "Last man to stay in that
-room died of Rot... we could tell he was sickly when he came in, but by the morning,
-the poor thing looked like a corpse. Found him dead on the floor."
-You bring your right hand up to your left shoulder by instinct, feeling the cold, metal
-prosthetic arm that served as a constant reminder of why you were here.
-It had been rotten, had to be cut off. The King brought the Rot.
-If he were to vanish, perhaps it would vanish too.
+"É," ele lança um olhar à bolsa de ouro presa à sua cintura. "Temos um quarto."
+Inclinando a cabeça para a esquerda, indica um corredor. "Cinco moedas de ouro por noite."
+"Feito," você responde, jogando as moedas sobre o balcão antes de se retirar.
+"Cuidado!" acrescenta a mulher rechonchuda ao lado dele.
+"O último homem que dormiu nesse quarto morreu da Podridão... a gente já tinha percebido que ele
+estava doente quando chegou, mas pela manhã, o pobre coitado parecia um cadáver. Encontramos ele morto no chão."
+
+Instintivamente, você leva a mão direita ao ombro esquerdo, sentindo o frio da prótese metálica—
+um lembrete constante do motivo pelo qual estava ali.
+Seu braço tinha apodrecido, teve que amputar.
+O Rei trouxe a Podridão.
+Se ele desaparecesse... talvez ela desaparecesse também.
 
 T: -5
 
-#16: "Goodnight."
+#16: "Boa noite."

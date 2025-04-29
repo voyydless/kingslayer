@@ -1,22 +1,24 @@
 m
-You move fast. Faster than he expects.
-Your metal hand slams his tankard aside, sending it clattering to the floor, the
-liquid hissing where it splashes. No wonder why he hadn't drank it. The moment he reaches
-for his sword again, yours is already half-drawn.
+Você se move rápido. Mais rápido do que ele esperava.
+Sua mão metálica atinge a caneca dele com força, lançando-a ao chão. o recipiente se choca
+contra as tábuas, espalhando o líquido que chia ao tocar a madeira.
+Faz sentido que ele não tenha bebido.
+No instante em que ele tenta alcançar a espada de novo, a sua já está meio desembainhada.
 
-Steel screams against steel.
-The fight is far from elegant. Two bodies trying to outlast the other.
-He’s stronger— has the weight of armor and years, but you have speed, desperation, and hate.
-He lands a blow against your arm, scraping sparks off of metal. If you hadn't cut it off
-all those years ago, you would've lost your arm at that very instant.
-You drive your metal fist into his throat in return. He stumbles, but doesn't stop.
-Nor do you.
+Aço contra aço. Um grito agudo.
+A luta é longe de ser elegante. São dois corpos tentando sobreviver mais tempo que o outro.
+Ele é mais forte— tem o peso da armadura e dos anos. Mas você tem velocidade. Desespero. E ódio.
+Um golpe acerta seu braço, arrancando faíscas do metal.
+Se não o tivesse amputado anos atrás, teria perdido o braço naquele instante.
+Você revida com um soco direto na garganta dele.
+Ele cambaleia, mas não para.
+E você também não.
 
-N: Former Ursae
+N: Antigo Ursae
 H: 10
 S: 6
 E: 14
 T: 5
 P: 0
-I: Rusted Long Sword;w;1;2;1
+I: Espada Longa Apodrecida;w;1;2;1
 11;12

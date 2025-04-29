@@ -1,9 +1,10 @@
 #32
-The trees here are wrong. Tall, colorless, hollowed out like old bones.
-Their bark peels in long strips, as if trying to slough off rot the way a man might shed
-infected skin. Moss hangs like dead hair. Roots claw at the ground like fingers.
-You keep your blade close, your steps quiet. You know better than to trust stillness in a
-place like this.
+As árvores aqui estão erradas. Altas, sem cor, ocas como ossos antigos.
+Suas cascas se desprende em tiras longas, como se tentassem descascar a podridão
+da mesma forma que um homem tenta livrar-se de uma pele infeccionada.
+O musgo pende como cabelos mortos. As raízes arranham o chão como dedos.
+Você mantém a lâmina próxima, os passos silenciosos. Já aprendeu a não confiar
+na quietude de um lugar assim.
 
-#33: Go to the left.
-#34: Go to the right. [Mysterious Note]
+#33: Vá para a esquerda.
+#34: Vá para a direita. [Bilhete Misterioso]

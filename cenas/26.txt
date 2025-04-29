@@ -1,23 +1,23 @@
 #26
-This is not real.
-You stab your fingers into the soft flesh of your arm, feeling the metal of your armour
-bite against your skin. You focus on the pain.
-The walls ripple, outside the window, the shapes turn to face you— empty-eyed, slack-jawed.
-The room heaves under your feet, but you refuse to fall. You focus on the pain.
-You think of the cold metal of your armor, the weight of your blade. You think of who you are.
-Your grasp grows tighter, digging your nails hard enough to draw blood.
-You scream, the sound raw, tearing from your throat. And the dream shatters like glass.
+Isso não é real.
+Você crava os dedos na carne macia do seu braço, sentindo o metal da armadura contra sua
+pele. Você se concentra na dor. As paredes ondulam, e, do lado de fora da janela, as figuras
+viram-se em sua direção— olhos vazios, bocas entreabertas.
+O quarto oscila sob seus pés, mas você se recusa a cair. Você se concentra na dor.
+Você pensa no metal frio da sua armadura, no peso da sua lâmina. Pensa em quem você é.
+Seu aperto se intensifica, unhas cavando até arrancar sangue.
+Você grita— um som áspero, que rasga sua garganta. E o sonho estilhaça como vidro.
 
-You wake, flat on your back, on the dirt path outside the town.
-The sky is gray, the air heavy with the stench of decay.
-The castle looms ahead, closer now. You push yourself upright, breathing hard.
-Your arm aches.
-When you pull back the armour, you see it— a dark mark, coiling up from your skin like rot taking root.
-You'd killed it before, it wasn't supposed to come back.
+Você acorda, deitado de costas, na trilha de terra fora da cidade.
+O céu está cinzento, o ar pesado com o fedor da podridão.
+O castelo se ergue adiante, mais próximo agora. Você se levanta com dificuldade, respirando com força.
+Seu braço dói.
+Ao afastar a armadura, você vê— uma marca escura, enroscando na pele como a podridão criando raízes.
+Você já havia vencido isso antes. Não era para ter voltado.
 
-You press your cloak tighter around yourself, and move.
-There’s no time to waste.
+Você aperta o manto contra o corpo e segue em frente.
+Não há tempo a perder.
 
-I: Rotted Arm;w;1;5;5
+I: Braço Apodrecido;w;1;5;5
 
-#32: Head through the forest.
+#32: Siga pela floresta.

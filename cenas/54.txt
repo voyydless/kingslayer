@@ -1,19 +1,27 @@
 #54
-The main road that cuts through the city was too open, too visible. You step off the
-path, into overgrown brush, and begin the long walk along the wall’s perimeter.
-What was once a pristine outer garden is now a cemetery of vines and twisted iron.
-Thorned branches tug at your cloak. Statues of saints and scholars peer out from cracked
-alcoves, their faces long since worn away, the Rot even digging into stone.
+A estrada principal que corta a cidade era muito aberta, muito visível. Você sai do caminho,
+entra na vegetação densa, e começa a longa caminhada ao longo do perímetro da muralha.
+O que antes era um jardim exterior impecável agora é um cemitério de vinhas e ferro retorcido.
+Galhos espinhosos puxam sua capa. Estátuas de santos e estudiosos observam de alcovas quebradas,
+seus rostos já desgastados, a Podridão até perfurando a pedra.
 
-Every few steps, your boot crunches something dry— a twig, or a bone, it’s hard to say.
-The wall looms high above you now. Once meant to keep out invaders.
-Now it keeps in silence.
+A cada poucos passos, sua bota pisa em algo seco— um galho, ou um osso, difícil dizer.
+A muralha se ergue alta sobre você agora. Antes destinada a manter invasores afastados.
+Agora ela mantém o silêncio dentro.
 
-You find a place where the stone has eroded, weathered by rain that shouldn’t fall and
-time that shouldn’t pass. The climb won’t be easy, but it’s your best chance.
+Você encontra um lugar onde a pedra foi erodida, desgastada pela chuva que não deveria cair
+e pelo tempo que não deveria passar. A escalada não será fácil, mas é sua melhor chance.
 
-You check the straps on your gauntlet, dig your fingers into the crevices of the wall, and begin to climb.
+Você verifica as correias do seu braço, enfia os dedos nas fendas da parede e começa a escalar.
 
 SORTE
-#55: You climb.
-#56: You climb— you fall.
+#55: Você escala.
+#56: Você escala— você cai.
+
+
+
+
+
+
+
+

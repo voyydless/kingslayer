@@ -1,18 +1,18 @@
 #17
-You stay still for a moment, letting the silence settle.
-Then you move. Quietly, Carefully. Someone had been in here, you had to find out who.
-Your hands search the drawers, the shelves, the cracks between the floorboards.
-Nothing out of the ordinary, nothing to go off of, not even dust.
-It’s as if no one has ever stayed in this room before.
+Você fica parado por um momento, deixando o silêncio se instalar.
+Então se move. Quieto, cauteloso. Alguém esteve aqui, você precisava descobrir quem.
+Suas mãos vasculham as gavetas, as prateleiras, as frestas entre as tábuas do chão.
+Nada fora do comum, nada em qual poderia se basear, nem mesmo poeira.
+É como se ninguém nunca tivesse ficado neste quarto antes.
 
-You check under the bed.
-There, tucked into the shadows, you spot it: another slip of paper, stained at the edges.
-As you reach for it, he cold brush of something unseen grazes your fingers.
-You snatch the paper away quickly, heart hammering.
-It’s a rough sketch— a gnarled, leafless tree, its roots twisting down into black soil.
-And just like the note, there was nothing to point to who had made it.
+Você verifica embaixo da cama.
+Lá, escondido nas sombras, você vê: outro pedaço de papel, manchado nas bordas.
+Quando você estende a mão para pegá-lo, o toque gelado de algo invisível roça seus dedos.
+Você agarra o papel rapidamente, o coração batendo forte.
+É um esboço rudimentar— uma árvore retorcida, sem folhas, suas raízes se torcendo para baixo em um solo negro.
+E, assim como o bilhete, não há nada que indique quem o fez.
 
-You frown. You've seen this tree before.
+Você franze a testa. Você já viu essa árvore antes.
 
-#24: Keep searching the room.
-#25: Study the drawing more closely.
+#24: Continuar procurando.
+#25: Estudar o desenho mais de perto.

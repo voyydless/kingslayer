@@ -1,23 +1,26 @@
 #67
-"Best be on your way, then!" The bounty hunter says, untying your constraints.
-He sees your quizzical look and explains further. "The King put a bounty on your head,
-said he wants you dead or alive. I brought you here, you're alive. Now you go on and
-give him this." He hands you your own bounty poster, with 'CAUGHT BY - ' and his
-unreadable signature on the back.
-Was he an idiot?
-"It proves that I was the one to catch you! And I'll be waiting right here for him
-to reward me with the gold I earned."
-"Are you an idiot?"
-"No, I'm cautious. You think I'm risking my life by entering the King's castle? No
-way. If anyone's dying today, it's you."
-He was an absolute idiot.
+"É melhor seguir seu caminho, então!" diz o caçador de recompensas, te tirando das correntes.
+Ele percebe seu olhar confuso e explica:
+"O Rei colocou uma recompensa pela sua cabeça, disse que te queria morto ou vivo. Eu te trouxe vivo.
+Agora vá lá e entrega isso a ele." Ele coloca em sua mão a sua própria carta de procurado, com
+'CAPTURADO POR –' e uma assinatura ilegível no escrito no verso.
 
-"Alright," you speak after a brief moment of utter confusion. "I'll... go see the King now."
-"Yeah, you'll be seeing him alright. And I'll be seeing his gold." There's pride in
-his voice, you can't help but admire such naive stupidity.
+Ele era um idiota?
 
-It's not how you imagined you'd get here, but you're here.
-You walk through the gates.
+"Isso prova que fui eu quem te pegou! E vou esperar bem aqui enquanto ele me recompensa com o ouro que mereço."
+"Você é um idiota?"
+"Não, sou cauteloso. Acha que vou arriscar a vida entrando no castelo do Rei? Nem pensar.
+Se alguém vai morrer hoje, esse alguém é você."
 
-I: Bounty Poster;c;0;0;0
-#68: Enter.
+Ele era um idiota completo.
+
+"Certo," você diz após um breve momento de pura confusão. "Eu... vou ver o Rei agora."
+"É, vai ver ele mesmo. E eu vou ver o ouro dele."
+Há orgulho na voz dele. Você não consegue evitar admirar tamanha estupidez.
+
+Não era assim que você imaginava chegar aqui, mas chegou.
+
+Você atravessa os portões.
+
+I: Carta de Procurado;c;0;0;0
+#68: Entre.

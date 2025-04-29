@@ -1,13 +1,13 @@
 #68
-Its gates stand wide open.
-Not broken, not torn down— simply open, like it was expecting you.
-You step through. Inside, the air is colder. Staler.
-The silence here isn’t emptiness... it’s watching.
+Os portões estão escancarados.
+Não arrombados, não destruídos— apenas abertos, como se estivessem esperando por você.
+Você entra. Lá dentro, o ar é mais frio. Mais estagnado.
+O silêncio aqui não é vazio... está observando.
 
-A grand staircase waits before you, carved of black stone, flecked with veins of deep crimson.
-You ascend. One hand on the railing, one always near your weapon.
-Soon, there's no where else to go, you're at the top, in a small hall before your final destination.
+Uma grande escadaria te aguarda, esculpida em pedra negra, com detalhes em um vermelho profundo.
+Você sobe. Mão falsa no corrimão, a outra sempre próxima da arma.
+Logo, não há mais para onde ir— você está no topo, em um pequeno salão diante de seu destino final.
 
-Whatever comes next, you are ready.
+O que quer que venha a seguir, você está pronto.
 
-#59: Look around.
+#59: Olhe ao seu redor.

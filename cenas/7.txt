@@ -1,12 +1,15 @@
 #7
-He grunts, head gesturing to someone in the back. A woman comes out, limbs and face plump
-from nothing but water weight. She nods while placing a place with two corn cobs in
-front of you. You peel one of them, it’s strangely coloured. You’re too famished to care,
-the closer you’d gotten to the castle, the less wildlife there’d been to hunt.
-They’re warm, the buttery aroma being a well–welcomed sensation you’d thought you’d
-forgotten about– maybe it’s best to save the second cob for later.
+Ele resmunga, fazendo um gesto com a cabeça para alguém nos fundos.
+Uma mulher surge, os membros e o rosto inchados de pura retenção d’água. Ela faz um aceno
+com a cabeça enquanto deposita um prato com duas espigas de milho diante de você.
+Você descasca uma delas— a coloração é estranha.
+Mas a fome fala mais alto.
+Quanto mais próximo chegava do castelo, menos vida selvagem havia para caçar.
+
+Estão quentes, e o aroma amanteigado é uma sensação bem-vinda, quase esquecida.
+Talvez seja melhor guardar a segunda espiga para depois.
 
 T: -5
 P: 1
 
-#8: “Is there a room I could stay in? I have the gold to pay.”
+#8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”

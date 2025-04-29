@@ -1,29 +1,29 @@
 #52
-The Royal City of Caedros.
+A Cidade Real de Caedros.
 
-Once, its white stone walls shimmered in the sun, a crown of beauty atop the spine of the
-kingdom. The streets had been carved from pale granite, polished and swept daily. Ivy had
-curled over old archways like green lace. It was said the bells of Caedros could be
-heard even in the furthest farms— and that every man, woman, and child in the realm had
-once dreamed of walking its streets.
+Antes, suas paredes de pedra branca brilhavam ao sol, uma coroa de beleza sobre a espinha do
+reino. As ruas haviam sido esculpidas em granito pálido, polido e varrido todos os dias.
+A hera se enrolava sobre velhos arcos como renda verde. Diziam que os sinos de Caedros podiam
+ser ouvidos até nas fazendas mais distantes— e que cada homem, mulher e criança do reino
+já havia sonhado em caminhar por suas ruas.
 
-Now, the city does not shimmer. It weeps.
+Agora, a cidade não brilha. Ela chora.
 
-The air here is thicker, heavier. A haze clings low to the ground, curling like smoke,
-carrying with it the scent of metal and mildew. The gates are ajar, rusted open, and the
-once golden sigils above them have rotted black.
+O ar aqui é mais denso, mais pesado. Uma névoa se arrasta baixa sobre o chão, enrolando-se como
+fumaça, carregando consigo o cheiro de metal e bolor. As portas estão entreabertas, enferrujadas,
+e os sigilos dourados acima delas se deterioraram até ficarem negros.
 
-No guards.
-No cries.
-No welcome.
+Nenhum guarda.
+Nenhum grito.
+Nenhuma saudação.
 
-And yet… they knew you were coming.
-You can feel them. Watching from behind shuttered windows and cracked doors, their breath
-held like coins in their mouths. The people still live here, but they are buried in fear.
+E, ainda assim... os habitantes sabiam que você estava vindo.
+Você pode senti-los. Assistindo de trás das janelas fechadas e portas rachadas, suas respirações
+contidas como moedas nas bocas. As pessoas ainda vivem aqui, mas estão enterradas no medo.
 
-You take a breath, and look up.
-The castle rises high above the city on its inner hill, its golden towers eaten away at the
-edges, its banners now tattered strips of cloth. You’ve come this far.
+Você respira fundo e olha para cima.
+O castelo se ergue alto acima da cidade em sua colina interna, suas torres douradas corroídas nas bordas,
+suas bandeiras agora retalhos de pano. Você conseguiu chegar até aqui.
 
-#53: Enter the city through the main gate.
-#54: Circle around and scale the wall, straight the the castle.
+#53: Entrar na cidade pelo portão principal.
+#54: Dar a volta e escalar a muralha, indo direto para o castelo.

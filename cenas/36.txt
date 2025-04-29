@@ -1,17 +1,18 @@
 #36
-You have your fill of the cold stew and pack the bread for later.
-You throw your cloak over your shoulder, fasten the straps that keep your arm in place,
-and move. Down the stirs, past the empty tables. The tavern is as silent as a graveyard now,
-not a soul in sight.
+Você se farta do ensopado frio e guarda o pão para mais tarde.
+Joga o manto sobre os ombros, aperta as correias que mantêm seu braço no lugar, e segue.
+Desce as escadas, passa pelas mesas vazias.
+A taverna está tão silenciosa quanto um cemitério agora,
+não há uma alma à vista.
 
-But someone must've been there to leave the front door open.
-You instinctively reach for your weapon as you leave, closing the door ever so slowly
-as to not wake the occupants with its creaking— but it's enough to alert someone else.
+Mas alguém deve ter estado ali, a porta da frente está aberta.
+Instintivamente, você leva a mão à arma ao sair, fechando a porta o mais devagar possível,
+para não acordar os ocupantes com seu rangido— mas é o bastante para alertar outra pessoa.
 
-The soft crunch of footsteps sound like war drums to you.
+O suave estalar de passos na terra soa como tambores de guerra para você.
 
 P: 1
-#20: Prepare yourself to attack.
+#20: Preparar-se para atacar.
 SORTE
-#23: Slowly walk away, be as silent as possible, he won't notice.
-#22: He ambushes you.
+#23: Caminhar devagar, o mais silenciosamente possível, ele não vai notar.
+#22: Ele te embosca.

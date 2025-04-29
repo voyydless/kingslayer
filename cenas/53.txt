@@ -1,16 +1,17 @@
 #53
-The gates of the city are tall things, older than the crown they defend.
-The rot hasn’t spared them, a faint stench clings to the surface, old blood or worse.
+Os portões da cidade são grandes, mais antigas do que a coroa que defendem.
+A podridão não as poupou, um leve cheiro se prende à superfície, sangue velho ou algo pior.
 
-You press against them and they groan open, slow as if protesting your arrival.
+Você pressiona contra elas, e elas rangem, abrindo lentamente, como se protestassem contra sua chegada.
 
-The streets are wide, but every door is shut. Every window is shuttered.
-You feel eyes on you, though no one looks out. The city knew you were coming. It had time to hide.
-A doll lies face down in the mud, one button eye scraped clean off.
-You hear the clinking of armour— the guards were on alert, they knew you'd arrived.
-From the footsteps, you could tell there were two, one heavier, one lighter.
-As they approached, you could see them better. One Ursae, one Leporidae.
-They were coming from different directions.
+As ruas são largas, mas todas as portas estão fechadas. Todas as janelas estão cerradas.
+Você sente olhos sobre você, embora ninguém olhe para fora. A cidade sabia que você estava vindo.
+Ela teve tempo de se esconder.
+Uma boneca está deitada de bruços no lamaçal, um olho de botão completamente arrancado.
+Você ouve o tilintar de armaduras— os guardas estavam em alerta, sabiam que você havia chegado.
+Pelos passos, dava para perceber que eram dois, um mais pesado, o outro mais leve.
+À medida que se aproximavam, você podia vê-los melhor. Um Ursae, um Leporidae.
+Eles vinham de direções diferentes.
 
-#60: Take on the Ursae first.
-#61: Take on the Leporidae first.
+#60: Enfrente o Ursae primeiro.
+#61: Enfrente o Leporidae primeiro.

@@ -1,21 +1,20 @@
 #16
-You wake with a racing heart. Not from noise, but from the absence of it.
-No birdsong, no wind, no footsteps below. Only the creaking of wood from the fragile
-bed you lay upon. The room is small, barely more than a cot and a table. One window,
-no curtain. The light that spills through is gray, lifeless.
-You flex your fingers, then your armored hand— it creaks like rusted hinges, but holds firm.
-On the table, a tray. Bread and a bowl of something that was once stew.
-The bread is hard, the stew cold, but it doesn’t stink. The woman you've come to assume
-was the barkeep's wife kept surprising you with you she managed to cook with
-the little they had that wasn't rotten.
-As you pick the tray up, you notice something under it; a note.
+Você acorda com o coração acelerado. Não por casa de algum barulho, mas pela ausência dele.
+Nenhum canto de pássaro, nenhum vento, nenhum passo no andar de baixo. Apenas o rangido da
+madeira da frágil cama sobre a qual você está deitado. O quarto é pequeno, mal maior que uma cama
+de solteiro e uma mesa. Uma janela, sem cortina. A luz que entra é cinza, sem vida.
+Você flexiona os dedos, depois sua mão armada— ela range como dobradiças enferrujadas, mas se mantém firme.
+Na mesa, uma bandeja. Pão e uma tigela com algo que um dia foi ensopado.
+O pão está duro, o ensopado frio, mas não tem cheiro ruim. A mulher que você passou a supor ser a esposa
+do estalajadeiro continua te surpreendendo com o que ela consegue cozinhar com o pouco que não está podre.
+Enquanto você pega a bandeja, nota algo embaixo dela; um bilhete.
 
-'It's waiting for you. If you mean to keep going, go soon.'
+'Está esperando por você. Se pretende continuar, vá logo.'
 
-No name, no signature. You don't know who it's from, but you know it's for you.
-A door creaks downstairs. Whoever had left it was leaving.
+Sem nome, sem assinatura. Você não sabe de quem é, mas sabe que é para você.
+Uma porta range lá embaixo. Quem quer que tenha deixado o bilhete está indo embora.
 
-#17: Search the room for more clues.
-#36: Leave.
-#18: Pack the note and leave.
-#19: Something about the note reminds you of a dream.
+#17: Procurar mais pistas no quarto.
+#36: Sair.
+#18: Guardar o bilhete e sair.
+#19: Algo sobre o bilhete te lembra um sonho.

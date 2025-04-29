@@ -1,10 +1,11 @@
-CenaAtual:10
-CenasVistas:1,2,3,5,10
-Nome:teste
+CenaAtual:70
+CenasVistas:70
+Nome:Armâ
 Habilidade:10
-Energia:16
-Sorte:10
+Energia:7
+Sorte:6
 Tesouro:100
-Provisoes:1
+Provisoes:2
 Item:Espada curta;w;true;1;0
-Item:Armadura de Couro;r;false;0;3
+Item:Armadura de Couro;r;false;0;0
+Item:Bilhete Misterioso;c;false;0;0

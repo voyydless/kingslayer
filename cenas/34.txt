@@ -1,17 +1,17 @@
 #34
-The right path winds gently through a stretch of dry trees.
-Their bark is cracked like old paint, and the roots beneath your feet crunch with
-every step. It’s quieter here. No stench, no movement.
-Only your own breath for company.
-Hours pass— or maybe just minutes. It’s hard to tell. Time bends strangely when you've
-been travelling for so long, it bends in the woods.
+O caminho à direita serpenteia suavemente por um trecho de árvores secas.
+A casca delas está rachada como tinta antiga, e as raízes sob seus pés estalam
+a cada passo. Está mais silencioso aqui. Sem fedor, sem movimento.
+Apenas sua própria respiração como companhia.
+Horas passam— ou talvez apenas minutos. É difícil dizer.
+O tempo se passa de forma estranha quando se viaja por tanto tempo, sua passagem se entorta na floresta.
 
-Eventually, you feel your legs beginning to ache.
-You settle onto a fallen log and dig through your pack.
+Eventualmente, você sente suas pernas começarem a doer.
+Você se senta sobre um tronco caído e revira sua mochila.
 
-Bread. Cold. Hard as a rock. Still, it’s better than nothing.
-You eat in silence, watching the wind move sluggishly through the trees.
-For a moment, it’s almost peaceful.
+Pão. Frio. Duro como pedra. Ainda assim, é melhor que nada.
+Você come em silêncio, observando o vento mover-se lentamente entre as árvores.
+Por um momento, é quase... pacífico.
 
 P: -1
-#41: Keep walking.
+#41: Continuar caminhando.

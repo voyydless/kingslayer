@@ -1,19 +1,19 @@
 #33
-The moss is thicker now. It swallows your boots, climbs your ankles like something alive.
-Each breath you take is heavier than the last. The air here is wet— not with rain,
-but with the stinking, humid breath of decay.
-You duck beneath a low branch. Its bark flakes onto your cloak like ash.
-Flies rise up in small clouds from the underbrush, sluggish and fat.
+O musgo está mais espesso agora. Engole suas botas, sobe pelos seus tornozelos como algo vivo.
+Cada vez que respira, se torna algo mais pesado que antes. O ar aqui está úmido— não de chuva,
+mas do fôlego quente e fétido da decomposição.
+Você se abaixa sob um galho baixo. A casca se desfaz sobre seu manto como cinzas.
+Nuvens de moscas se erguem da vegetação rasteira, lentas e inchadas.
 
-Then you see it.
+Então você o vê.
 
-Half-sunken into a bed of blackened ivy, its spine curled unnaturally, its body twitching
-in small, stuttering bursts. A Rotten.
-It stares at the dirt, doesn’t see you yet.
-But you can hear it — sucking in short, ruined breaths through the holes in its throat.
-Somehow, it’s still alive. Somehow, it suffers.
+Meio afundado em uma cama de hera enegrecida, a coluna curvada de forma antinatural,
+o corpo se contorcendo em pequenos espasmos. Um Apodrecido.
+Ele encara a terra, ainda não viu você.
+Mas você o ouve— respirando em arfadas curtas e estragadas através dos buracos no pescoço.
+De alguma forma, ainda está vivo. De alguma forma, ainda sofre.
 
 SORTE
-#40: Try to sneak past.
-#37: Put it out of its misery.
+#40: Tentar passar despercebido.
+#37: Acabar com o sofrimento dele.
 

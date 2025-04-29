@@ -1,16 +1,21 @@
 #14
-"The King? Are you stupid? What could I possibly know about him that anyone else
-doesn't know as well, especially the likes of you." It feels like forever as his eyes run
-over you. You knew you stood out, fine leather armour, a pouch on your side filld fat
-with gold. The scars on your face, your prosthetic arm. People knew you, even if
-they'd never met you before. They'd heard about you. About who you were, what you'd done,
-what you wanted to do. The story got twisted as time went by, but the most important
-fact never changed— you wanted to kill the King.
-"I'm sure there's something you must know, being the only town this close to the castle
-with no allegiance to its royalty."
-"If you want to hear rumours, here's one for you: I hear he shits pure gold but that
-Rot comes out of his arsehole whenever he farts."
-"...How insightful."
+"O Rei? Você é burro ou o quê? O que eu poderia saber sobre ele que qualquer outra
+pessoa não saiba, especialmente alguém como você?"
+Parece uma eternidade enquanto os olhos dele percorrem você.
+Você sabia que se destacava— armadura de couro fina, uma bolsa na cintura cheia de ouro.
+As cicatrizes no rosto, o braço prostético.
+As pessoas te conheciam, mesmo que nunca tivessem te encontrado antes.
+Elas ouviram sobre você. Sobre quem você era, o que fez, o que queria fazer.
+A história foi distorcida com o tempo, mas o fato mais importante nunca mudou— você queria matar o Rei.
 
-#15: Ask about the soldier.
-#8: “Is there a room I could stay in? I have the gold to pay.”
+"Tenho certeza de que algo você deve saber, sendo a única cidade tão perto do
+castelo que não tem lealdade à sua realeza."
+
+"Se você quer ouvir rumores, aqui vai um pra você: dizem que ele caga ouro puro, mas que a Podridão sai
+da bunda dele sempre que solta um pum."
+
+"...Que perspicaz."
+
+#15: Perguntr sobre o soldado.
+#8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”
+

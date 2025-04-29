@@ -1,8 +1,8 @@
 #3
-The door creaks loudly as you push it open, the few inside turn to look at you,
-and you control yourself to not allow your face contort into a scowl as you
-notice the King’s Soldier sitting in the corner. A barkeep polishes a cup that’s
-never clean, eyes locked onto your own.
+A porta range alto ao ser empurrada, os poucos presentes se viram para te encarar,
+e você se controla para não deixar que seu rosto se contraia em uma careta ao notar
+o Soldado do Rei sentado no canto. O dono da taberna lustra um copo que nuna parece
+estar limpo, os olhos dele fixos nos seus.
 
-#4: Go up to the barkeep.
-#5: Go up to the soldier.
+#4: Vá até o estalajadeiro.
+#5: Vá até o soldado.

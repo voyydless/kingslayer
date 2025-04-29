@@ -1,19 +1,19 @@
 #18
-You fold the note two time over, stuff it in a pocket, have your fill of
-the cold stew and pack the bread for later. You throw your cloak over your
-shoulder, fasten the straps that keep your arm in place, and move.
-Down the stirs, past the empty tables. The tavern is as silent as a graveyard now,
-not a soul in sight.
+Você dobra o bilhete duas vezes, o enfia no bolso, come o suficiente da sopa fria
+e guarda o pão para mais tarde. Joga sua capa sobre o ombro, aperta as correias que
+seguram seu braço de armadura no lugar e segue em frente.
+Desce as escadas, passando pelas mesas vazias. A taberna está tão silenciosa quanto um
+cemitério agora, não há alma à vista.
 
-But someone must've been there to leave the front door open.
-You instinctively reach for your weapon as you leave, closing the door ever so slowly
-as to not wake the occupants with its creaking— but it's enough to alert someone else.
+Mas alguém deve ter estado lá para deixar a porta da frente aberta.
+Você instintivamente pega sua arma ao sair, fechando a porta devagar, para não acordar
+os ocupantes com o rangido— mas é o suficiente para alertar outra pessoa.
 
-The soft crunch of footsteps sound like war drums to you.
+O suave estalo dos passos soa como tambores de guerra para você.
 
-I: Mysterious Note;c;0;0;0
+I: Bilhete Misterioso;c;0;0;0
 P: 1
-#20: Prepare yourself to attack.
+#20: Prepare-se para atacar.
 SORTE
-#23: Slowly walk away, be as silent as possible, he won't notice.
-#22: He ambushes you.
+#23: Ande devagar para longe, seja o mais silencioso possível, ele não vai notar.
+#22: Ele te embosca.

@@ -1,15 +1,15 @@
 #6
-He places a chipped tankard in front of you. The liquid inside swirls unnaturally—thick, dark.
-“The hell is this?”
+Ele coloca uma caneca lascada à sua frente.
+O líquido lá dentro gira de forma antinatural— espesso, escuro.
+“Que diabos é isso?”
 “Moonshine.”
-You have a hard time believing that. “Got anything else?”
-“We got moonshine.”
-You had a feeling that if you took a sip of that thing, it would be the last thing
-you’d ever drink. Maybe if you change the subject, he'll ignore the fact that
-you were slowly pushing the drink further and further away from you.
+Você tem dificuldade em acreditar. “Tem mais alguma coisa de beber?”
+“Temos moonshine.”
+Você tinha a sensação de que, se provasse aquilo, seria a última coisa que beberia na vida.
+Talvez, se mudasse de assunto, ele ignorasse o fato de que você estava empurrando a bebida lentamente para longe.
 
 T: -1
 
-#14: Ask about the King.
-#15: Ask about the soldier.
-#8: “Is there a room I could stay in? I have the gold to pay.”
+#14: Perguntar sobre o Rei.
+#15: Perguntar sobre o soldado.
+#8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”

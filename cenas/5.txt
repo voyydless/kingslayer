@@ -1,12 +1,14 @@
 #5
-His armour’s stained, dented. The gold trim is mostly flaked off, only visible around the
-collar where his helmet would sit. Ursae. Though he no longer had his bear’s skull helm,
-you could tell his rank from the details on his uniform. They were the heavy hitters,
-the brutes. Perhaps he was once as large as a bear, as large as his armour suggested he was,
-but now it served as a hollow shell.
-His face is gaunt, lips cracked. A tankard rests untouched in front of him.
-“What do you want?” He says, before you can speak.
+A armadura dele está manchada, amassada. O dourado nas bordas descascou quase por completo,
+restando um pouco apenas ao redor da gola— onde antes repousava o elmo. Ursae.
+Embora já não usasse o capacete com a caveira de urso, era possível reconhecer seu posto pelos
+detalhes no uniforme. Eram os brutamontes, os que esmagavam. Talvez um dia ele tivesse sido tão
+grande quanto um urso, tão imponente quanto a armadura sugeria.
+Mas agora, ela só servia como uma carcaça oca de uma velha identidade.
 
-#9: “What’s a soldier doing in a town like this?”
-#10: Strike before he can process it.
-#4: Say nothing.  Go up to the barkeep.
+Seu rosto está abatido, os lábios rachados. Uma caneca de cerveja repousa intocada à sua frente.
+“O que você quer?” ele diz, antes que você possa abrir a boca.
+
+#9: “O que um soldado está fazendo numa cidade como esta?”
+#10: Atacar antes que ele tenha tempo de reagir.
+#4: Permanecer em silêncio. Aproximar-se do estalajadeiro.

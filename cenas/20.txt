@@ -1,26 +1,25 @@
 m
-You turn sharply, hand gripping the hilt at your side. Fog coils at your boots,
-thick and heavy, distorting shapes and sound.
-Out of it steps a man— a hunter.
-He’s broad-shouldered, heavy with muscle but moving light on his feet.
-His cloak is ratty but thick, patched with the hides of creatures not found this side
-of the forest. His armor is mismatched, but well polished.
-Pieces taken from the dead, no doubt.
+Você vira bruscamente, a mão apertando o cabo da espada ao lado. A névoa se enrola em
+torno de suas botas, espessa e densa, distorcendo formas e sons.
+De dentro dela sai um homem— um caçador.
+Ele é largo nos ombros, forte de músculos, mas se move com leveza.
+Seu manto está rasgado, mas grosso, remendado com peles de criaturas que não se encontram
+deste lado da floresta. Sua armadura é composta de várias peças diferentes, mas bem polida.
+Peças tiradas dos mortos, sem dúvida.
 
-His face is young, scarred at the jawline, long hair tied into a knot.
+Seu rosto é jovem, cicatrizado na linha do queixo, com cabelos longos amarrados em um nó.
 
-"You’re worth a lot of coin, you know that?" he says, voice easy, like this was a conversation
-at a tavern table and not the edge of death. "Dead or alive. Guess which one’s easier for me."
-He shifts his stance, boots crunching on the gravel. You notice his hand twitch,
-a small movement toward a throwing knife strapped to his belt.
+"Você vale uma boa quantia, sabia?" ele diz, a voz tranquila, como se fosse uma conversa em
+uma mesa de taberna, e não à beira da morte. "Morto ou vivo. Adivinha qual é mais fácil para mim."
+Ele muda sua postura, as botas estalando no cascalho. Você percebe o movimento de sua mão,
+um pequeno gesto em direção a uma faca de arremesso presa no cinto.
 
-He isn’t here to talk.
-
-N: Hunter
+Ele não está aqui para conversar.
+N: Caçador
 H: 8
 S: 10
 E: 18
 T: 15
 P: 1
-I: Mismatched Armour;r;0;1;1
+I: Armadura Randomizada;r;0;1;1
 21;22

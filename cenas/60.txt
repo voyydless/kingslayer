@@ -1,18 +1,19 @@
 m
-You turn toward the heavier steps. Ursae.
-He rounds the corner fully armored, a mountain of blackened steel with a gold trim,
-helm shaped like a bear’s skull, pauldrons jagged as shattered teeth. His gait is steady,
-confident. No wasted movement. He carries a hammer, not a sword— no elegance in what he
-means to do. He doesn’t speak. Just lunges.
-You sidestep. Barely.
-The hammer crushes the cobblestone, sends chips flying into your cheek. You feel the sting of blood.
-He comes again, relentless.
+Você se vira em direção aos passos mais pesados. Ursae.
+Ele aparece na esquina completamente armado, uma montanha de aço enfumaçado com detalhes dourados,
+o capacete moldado como um crânio de urso, ombreiras irregulares como dentes quebrados. Sua postura é firme,
+confiante. Nenhum movimento desnecessário. Ele carrega um martelo, não uma espada—
+não há elegância no que ele pretende fazer.
+Ele não fala. Apenas avança.
+Você se esquiva. Por pouco.
+O martelo despedaça o calçamento, fazendo lascas voarem em direção à sua bochecha. Você sente a ardência do sangue.
+Ele avança novamente, implacável.
 
-N: Ursae Soldier
+N: Soldado Ursae
 H: 12
 S: 6
 E: 18
 T: 10
 P: 1
-I: Large Hammer;w;1;2;3
+I: Martelo de Guerra;w;1;2;3
 62;63

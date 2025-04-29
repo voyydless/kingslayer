@@ -1,12 +1,13 @@
 #55
-You press your fingers into weather-worn grooves, boots scraping against stone slick with
-moss, ash and rot. Each foothold is a prayer, each movement deliberate.
-The wind picks up.
-You’re halfway when the stones begin to shift beneath your weight. Not much, but enough
-to stir dread in your gut. One wrong move and the wall won’t forgive you.
+Você pressiona os dedos nas ranhuras gastas pelo tempo, as botas raspando contra a pedra
+escorregadia com musgo, cinzas e podridão. Cada apoio é uma prece, cada movimento deliberado.
+O vento começa a aumentar.
+Você está pela metade do caminho quando as pedras começam a se mover sob seu peso.
+Não muito, mas o suficiente para despertar o medo em seu estômago.
+Um movimento errado e a muralha não te perdoará.
 
-You exhale, steady your breath, and continue.
+Você solta o ar, controla a respiração e continua.
 
 SORTE
-#57: You climb.
-#58: You climb— you fall.
+#57: Você escala.
+#58: Você escala— você cai.

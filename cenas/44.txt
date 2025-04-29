@@ -1,27 +1,27 @@
 #44
-The path tightens.
-The trees twist around each other, strangling the sky, letting in only a sickly,
-grey light. Roots claw at your ankles, branches scrape your face.
-The stench grows stronger with every step— the bitter, metallic reek of something long
-dead, yet still festering.
-Ahead, the ground slopes downward.
-The trees thin.
-And there, you see it.
+O caminho se estreita.
+As árvores se entrelaçam, sufocando o céu, deixando passar apenas uma luz doentia, cinza.
+Raízes arranham seus tornozelos, galhos arranham seu rosto.
+O fedor cresce mais forte a cada passo— o cheiro amargo e metálico de algo morto há muito
+tempo, mas ainda em putrefação. À frente, o chão desce.
+As árvores se tornam mais raras.
+E ali, você vê.
 
-A tree— if it could still be called that.
+Uma árvore— se ainda puder ser chamada assim.
 
-Its bark is blackened and slick, weeping foul sap that hisses when it touches the earth.
-Its roots pulse and writhe like the veins of a living corpse.
-Above, where branches should be, only skeletal tendrils reach into the sky, clutching at nothing.
+Sua casca está escurecida e pegajosa, chorando uma seiva fétida que chiaria ao tocar a terra.
+Suas raízes pulsando e retorcendo como veias de um cadáver vivo. Acima, onde deveriam estar
+os galhos, apenas tentáculos esqueléticos se estendem em direção ao céu, agarrando o nada.
 
-And at its center, a gaping wound. The very heart of the Rot.
-You feel it pull at you, like the tide at a drowning man.
-There is no mistaking it now.
-This is the source.
+E em seu centro, uma ferida aberta. O próprio coração da Podridão.
+Você sente seu chamado, como a maré puxando um homem afogado.
+Não há mais dúvida.
+Esta é a fonte.
 
-This is what the King has fed.
-What has been devouring the land, the people, the very soul of this kingdom.
+Este é o banquete que o Rei alimentou.
+O que tem devorado a terra, as pessoas, a própria alma deste reino.
 
-#45: Step closer.
-#46: Try to resist the pull.
-#47: Flee.
+#45: Dar um passo mais perto.
+#46: Tentar resistir à atração.
+#47: Fujir.
+

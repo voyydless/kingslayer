@@ -1,13 +1,13 @@
 m
-You pull your blade from its sheath, slow and sure.
-The figure does not flinch. It watches you — head tilted slightly, like a curious bird.
-Then it steps forward, its mask gleams faintly in the light of the mist.
-A single hand extends from the folds of its garment— long fingers, pale as bone, nails blueish
-purple from the lack of blood flow. It beckons you again.
+Você retira sua lâmina da bainha, devagar mas com certidão.
+A figura não se move. Ela te observa— cabeça inclinada, como um pássaro curioso.
+Então, ela dá um passo à frente, sua máscara brilha suavemente à luz da névoa.
+Uma única mão se estende das dobras de seu traje— dedos longos, pálidos como ossos, unhas arroxeadas
+pela falta de circulação sanguínea. Ela te chama novamente.
 
-You attack.
+Você ataca.
 
-N: The Vulture
+N: O Abutre
 H: 12
 S: 12
 E: 24

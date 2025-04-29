@@ -1,15 +1,15 @@
 #19
-The note shoots a memory through you.
-A wasn't a dream, no, though it wasn't a memory either. It was something else entirely;
-too vivid to be false, too wrong to be true. You were in a forest— one that was lush and
-green, something you'd only read of, a world before things had turned to ash and rot and bone.
-Wind howled through the foliage like a scream caught in a throat.
-And there, in an opening, stood a figure.
-Too tall, too thin, wrapped in robes of bark and skin, face hidden behind a mask.
-It stretches out a hand, beckoning you to follow——
+O bilhete dispara uma lembrança através de você.
+Não foi um sonho, não, embora também não fosse uma memória. Era algo totalmente diferente;
+vivo demais para ser falso, errado demais para ser verdade. Você estava em uma floresta—
+uma floresta exuberante e verde, algo que você só lera a respeito, um mundo antes das coisas se
+transformarem em cinzas, podridão e ossos. O vento uivava através da folhagem como um grito preso na garganta.
+E lá, em uma abertura, estava uma figura.
+Alta demais, magra demais, envolta em roupas de casca e pele, o rosto escondido atrás de uma máscara.
+Ela estendia a mão, fazendo um gesto para que você a seguisse——
 
-You jolt forward. Sweat beads on your back. Your heart thunders against your ribs.
-It's time to go.
+Você se estremece. O suor escorre pelas suas costas. Seu coração bate forte contra suas costelas.
+Está na hora de partir.
 
-#36: Leave.
-#18: Pack the note and leave.
+#36: Sair.
+#18: Guardar o bilhete e sair.

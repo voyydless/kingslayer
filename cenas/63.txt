@@ -1,12 +1,13 @@
 #63
-You go in hard, confident— too confident.
-You dodge the first swing, but the second lands just close enough. You lose your footing.
-He’s on you in an instant. Your blade glances off his chest, useless.
-The hammer rises. He doesn’t kill you.
-He knocks you through a fruit cart, unconscious in seconds.
+Você ataca com tudo, confiante— confiante demais.
+Desvia do primeiro golpe, mas o segundo acerta perto demais. Você perde o equilíbrio.
+Ele está sobre você num instante. Sua lâmina ricocheteia no peito dele, inútil.
+O martelo se ergue. Ele não te mata.
+Te arremessa contra uma barraca de frutas, apagando você em segundos.
 
-When you wake, your blade is gone and your arm throbs. You’ve lost this fight, and precious time.
-At least, they're gone. It seems your defeat made them think you weren't a threat.
+Quando acorda, sua lâmina se foi, e seu braço pulsa de dor.
+Você perdeu essa luta— e tempo precioso.
+Ao menos, eles se foram. Parece que sua derrota os convenceu de que você não era uma ameaça.
 
 DROPITEMS
-#66: You can't rest yet.
+#66: Você não pode descansar ainda.

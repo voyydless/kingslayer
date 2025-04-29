@@ -1,14 +1,13 @@
 #59
-You look behind you and stare outside a window.
-The Royal City of Caedros below disappears in mist and smoke.
-You can hardly believe you made it. You can hardly believe you're alive.
-Taking in your surroundings, the interior of the castle is less a palace and more a tomb;
-a mausoleum built to house a still-living god.
-No guards. No servants. No signs of life save for the faint flickering of torches lined
-against the wall.
+Você olha para trás e encara para fora de uma janela.
+A cidade real de Caedros abaixo desaparece em névoa e fumaça.
+Você mal consegue acreditar que chegou até aqui. Mal consegue acreditar que está vivo.
+Observando ao redor, o interior do castelo é menos um palácio e mais um túmulo;
+um mausoléu construído para abrigar um deus ainda vivo.
+Sem guardas. Sem servos. Nenhum sinal de vida, exceto pelas tochas que tremulam fracamente na parede.
 
-You walk. Every step echoes.
-The doors creak open before you touch them. Either the wind, or something watching.
-The throne room waits just ahead.
+Você anda. Cada passo ecoa.
+As portas rangem e se abrem antes mesmo de você tocá-las. Ou é o vento, ou algo te observando.
+A sala do trono aguarda logo à frente.
 
-#69: Enter.
+#69: Entre.

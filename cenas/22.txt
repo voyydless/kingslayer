@@ -1,18 +1,19 @@
 #22
-He strikes first, you’re too slow.
-Maybe it's the exhaustion. Maybe you're more shaken than expected from finding that
-note. He throws a knife at you, plunging into your ribs, leaving your breath in a
-choking gasp. You stumble back, but he’s already on you.
-A boot to your chest sends you sprawling.
-Your weapon clatters from your grasp.
+Ele ataca primeiro, você é lento demais.
+Talvez seja o cansaço. Talvez você esteja mais abalado do que esperava depois de
+encontrar aquele bilhete. Ele joga uma faca em você, cravando-se nas suas costelas,
+deixando sua respiração se perder em um suspiro ofegante. Você tropeça para trás, mas
+ele já está em cima de você. Um chute no seu peito te faz cair.
+Sua arma escapa da sua mão.
 
-"You're reputation had me thinking you'd give me a good fight." You hear him say,
-staring down at you as your vison fades to black.
+"Sua reputação me fez pensar que você me daria uma boa luta." Você ouve ele dizer,
+olhando para você enquanto sua visão se apaga para o preto.
 
-Hours later, you wake in chains, slumped over horseback.
-The road was paved, and you saw golden gates behind you. Maybe losing a bit of
-your dignity was worth it— you just got a free ride to your final destination.
+Horas depois, você acorda acorrentado, curvado sobre um cavalo.
+A estrada estava pavimentada, e você conseguia ver portões gigantes atrás de você.
+Talvez perder um pouco da sua dignidade tenha valido a pena—
+você acabou de ganhar uma carona grátis até o seu destino final.
 
 DROPITEMS
 
-#67: He comes to a stop, at the castle gate.
+#67: Ele para na porta do castelo.

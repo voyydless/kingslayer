@@ -1,15 +1,17 @@
 #27
-You let go, and the world around you peels away.
-When your eyes open again, you are standing at the base of a monstrous tree, the same as the
-sketch, but towering, endless. It reeks of rot, bark weeping black sap. Its branches hang
-heavy with bodies. Your body.
-Again and again.
-They sway gently in a wind you cannot feel. The ground beneath you pulses, alive.
-The tree speaks without words:
-'You carry the Rot within you, little hare. You cannot cut away what you are.'
+Você para de tentar manter controle, e o mundo ao seu redor se desfaz como pele apodrecida.
+Quando abre os olhos novamente, está aos pés de uma árvore monstruosa— a mesma do desenho,
+mas agora imensa, sem fim. Ela exala podridão, com casca que verte seiva negra.
+Seus galhos pendem pesados com corpos. O seu corpo. Repetido.
+Eles balançam suavemente ao vento, um vento que você não sente.
+O solo pulsa sob seus pés, vivo.
 
-You tighten your hand around your weapon. There is no waking from this.
-The Rot has finally come to reap what you had sowed.
+A árvore fala sem palavras:
+'Você carrega a Podridão dentro de si, lebrezinha. Não se pode cortar aquilo que se é.'
 
-#29: Sever the tree's root.
-#30: Offer yourself to it, you're so tired.
+Você aperta a mão em volta da arma.
+Não há como acordar disso.
+A Podridão veio, enfim, colher o que você plantou.
+
+#29: Cortar a raiz da árvore.
+#30: Oferecer-se a ela, você está tão cansado.

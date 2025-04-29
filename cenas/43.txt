@@ -1,12 +1,12 @@
 #43
-You open your mouth— but no words come.
-The figure understands anyway. It always has.
-"Go, then," its voice starts to shift, it sounds like that of a girl.
-"To the Rotten Tree."
-It steps aside, revealing a path of knotted roots and bleeding stone.
-The air beyond it glows sickly, as if a wound had been torn into the world itself.
-You pass the figure, and it does not follow.
-But you know it watches.
-It always watches.
+Você abre a boca— mas nenhuma palavra sai.
+A figura entende de qualquer forma. Ela sempre entendeu.
+"Vá, então," sua voz começa a mudar, e agora soa como a de uma garota.
+"Para a Árvore Podre."
+Ela dá um passo para o lado, revelando um caminho de raízes entrelaçadas e pedras sangrentas.
+O ar além dele brilha de forma doentia, como se uma ferida tivesse sido aberta no próprio mundo.
+Você passa pela figura, e ela não te segue.
+Mas você sabe que está observando.
+Ela sempre observa.
 
-#44: Walk down the path.
+#44: Ir pelo caminho.

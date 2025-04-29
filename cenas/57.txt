@@ -1,19 +1,18 @@
 #57
-Your foot slips— just once, and your heart slams against your ribs like a caged animal.
-But you catch yourself, press in closer to the wall, and crawl up the last few feet.
-Your armoured arm drags against stone. Fingers brush flatness. You grip the edge with the
-one still made of flesh. With a final heave, you drag yourself up into a window, and fall
-inside. For a moment, you collapse there, catching your breath.
+Seu pé escorrega— apenas uma vez, e seu coração bate contra suas costelas como um animal preso.
+Mas você se recompõe, se aproxima ainda mais da parede e sobe os últimos metros.
+Seu braço falso arrasta contra a pedra. Os dedos tocam a superfície plana.
+Você agarra a borda com a mão ainda de carne. Com um último esforço, puxa-se para cima e cai
+dentro de uma janela. Por um momento, você se deixa ficar caído ali, recuperando o fôlego.
 
-Standing up, you stare outside. The city below disappears in mist and smoke.
-You can hardly believe you made it. You can hardly believe you're alive.
-Taking in your surroundings, the interior of the castle is less a palace and more a tomb;
-a mausoleum built to house a still-living god.
-No guards. No servants. No signs of life save for the faint flickering of torches lined
-against the wall.
+Levantando-se, você olha para fora. A cidade abaixo desaparece em névoa e fumaça.
+Mal pode acreditar que conseguiu. Mal pode acreditar que está vivo.
+Observando ao redor, o interior do castelo é menos um palácio e mais um túmulo;
+um mausoléu construído para abrigar um deus ainda vivo.
+Sem guardas. Sem servos. Nenhum sinal de vida, exceto pelas tochas que tremulam fracamente na parede.
 
-You walk. Every step echoes.
-The doors creak open before you touch them. Either the wind, or something watching.
-The throne room waits just ahead.
+Você anda. Cada passo ecoa.
+As portas rangem e se abrem antes mesmo de você tocá-las. Ou é o vento, ou algo te observando.
+A sala do trono aguarda logo à frente.
 
-#69: Enter.
+#69: Entre.
