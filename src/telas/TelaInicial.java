@@ -17,6 +17,7 @@ public class TelaInicial {
     }
 
     public static void exibir() {
+        EstilizacaoTela.limparTela();
         Scanner scanner = new Scanner(System.in);
 
         titulo();
@@ -47,10 +48,11 @@ public class TelaInicial {
                 EstilizacaoTela.limparTela();
                 titulo();
                 EstilizacaoTela.centralizar("Desenvolvido por:", 45);
-                EstilizacaoTela.centralizar("Gabriele nome inteiro", 45);
-                EstilizacaoTela.centralizar(" Markus nome inteiro", 45);
-                EstilizacaoTela.centralizar("Sabrina nome inteiro", 45);
-                EstilizacaoTela.centralizar("\nPressione ENTER para voltar o menu", 45);
+                EstilizacaoTela.centralizar("Gabriele Santos de Azevedo", 45);
+                EstilizacaoTela.centralizar("Markus Lopes", 45);
+                EstilizacaoTela.centralizar("Sabrina Kimberly Rodrigues Ford", 45);
+                System.out.println();
+                EstilizacaoTela.centralizar("Pressione ENTER para voltar o menu", 45);
                 scanner.nextLine();
                 scanner.nextLine();
                 exibir();
