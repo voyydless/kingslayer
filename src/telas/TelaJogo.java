@@ -30,6 +30,13 @@ public class TelaJogo {
             EstilizacaoTela.limparTela();
             System.out.println("\n" + cena.getTexto());
 
+            // Verifica se a cena atual é o fim do jogo
+            if (cena.isFimDoJogo()) {
+                EstilizacaoTela.centralizar("\n--- FIM ---", 70);
+                EstilizacaoTela.centralizar("Obrigado por jogar! (˶˃ ᵕ ˂˶)", 70);
+                break; // Encerra o loop principal do jogo
+            }
+
             //Item encontrado:
             Item item = cena.getItemRecebido();
             if (item != null) {
@@ -138,6 +145,19 @@ public class TelaJogo {
                     int escolhaVisivel = Integer.parseInt(entrada);
                     if (mapaOpcoes.containsKey(escolhaVisivel)) {
                         int cenaDestino = mapaOpcoes.get(escolhaVisivel); // pega o número real da cena
+
+                        // Verificar requisito de item aqui
+                        if (cena.temRequisito(cenaDestino)) {
+                            String itemNecessario = cena.getRequisitoItem(cenaDestino);
+                            if (!jogador.getInventario().temItemComNome(itemNecessario)) {
+                                System.out.println("\nVocê precisa do item '" + itemNecessario + "' para seguir por este caminho!");
+                                System.out.println("Pressione ENTER para continuar.");
+                                scanner.nextLine();
+                                scanner.nextLine();
+                                continue; // volta para a seleção de opções
+                            }
+                        }
+
                         cenaAtual = cenaDestino;
                         Jogo.setCenaAtual(cenaAtual);
                     } else {

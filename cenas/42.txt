@@ -1,0 +1,20 @@
+#42
+You step closer.
+The clearing feels wrong.
+The ground breathes beneath your feet.
+The trees sway not with the wind, but to the rhythm of some ancient, wordless song.
+The figure watches in silence.
+
+And then it speaks.
+
+Its voice is not spoken aloud, but you feel it, like hands pulling threads inside your chest.
+"Strange. You bear the stink of the Rot, yet you are not yet claimed by it."
+
+A pause. Heavy, cold.
+
+"You seek to cut the rot from its root."
+The mask tilts slightly.
+"But would you offer yourself in trade?"
+
+#43: Speak to it.
+#49: Draw your weapon.

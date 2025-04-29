@@ -1,0 +1,17 @@
+#36
+You have your fill of the cold stew and pack the bread for later.
+You throw your cloak over your shoulder, fasten the straps that keep your arm in place,
+and move. Down the stirs, past the empty tables. The tavern is as silent as a graveyard now,
+not a soul in sight.
+
+But someone must've been there to leave the front door open.
+You instinctively reach for your weapon as you leave, closing the door ever so slowly
+as to not wake the occupants with its creaking— but it's enough to alert someone else.
+
+The soft crunch of footsteps sound like war drums to you.
+
+P: 1
+#20: Prepare yourself to attack.
+SORTE
+#23: Slowly walk away, be as silent as possible, he won't notice.
+#22: He ambushes you.

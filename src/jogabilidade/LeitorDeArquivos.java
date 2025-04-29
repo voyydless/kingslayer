@@ -116,12 +116,23 @@ public class LeitorDeArquivos {
                         cena.setTesteDeSorte(true);
                         encontrouSorte = true;
 
+                    }else if (linha.equalsIgnoreCase("FIM")) {
+                            cena.setFimDoJogo(true);
+
                         //É uma opção?
                     } else if (linha.startsWith("#")) {
                             String[] partes = linha.substring(1).split(":");
                             int destino = Integer.parseInt(partes[0].trim());
                             String descricao = partes[1].trim();
 
+                        // Verifica se há requisito entre colchetes no final
+                        if (descricao.contains("[") && descricao.contains("]")) {
+                            int inicio = descricao.indexOf('[');
+                            int fim = descricao.indexOf(']');
+                            String requisito = descricao.substring(inicio + 1, fim).trim();
+                            descricao = descricao.substring(0, inicio).trim(); // remove [requisito] do texto
+                            cena.adicionarRequisito(destino, requisito);
+                        }
                             if (encontrouSorte) {
                                 // Se já encontramos SORTE e ainda não temos destino de sucesso
                                 if (cena.getCenaSucessoSorte() == 0) {
@@ -143,10 +154,8 @@ public class LeitorDeArquivos {
                             texto.append(linha).append("\n");
                         }
                     }
-
                     cena.setTexto(texto.toString().trim());
                 }
-
                 return cena;
             } catch(IOException e) {
                 System.out.println("Erro ao ler arquivo: " + e.getMessage());

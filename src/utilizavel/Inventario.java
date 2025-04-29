@@ -19,6 +19,15 @@ public class Inventario {
         tesouro += quantidade;
     }
 
+    public boolean temItemComNome(String nome) {
+        for (Item item : itens) {
+            if (item.getNome().equalsIgnoreCase(nome)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public void exibir() {
         System.out.println("ITENS:");
         System.out.println("- Provisões: " + provisoes);

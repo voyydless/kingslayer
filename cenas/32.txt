@@ -5,6 +5,5 @@ infected skin. Moss hangs like dead hair. Roots claw at the ground like fingers.
 You keep your blade close, your steps quiet. You know better than to trust stillness in a
 place like this.
 
-#33: Go to the left. [Mysterious Note]
-#34: Go to the right.
-#35: Wait and listen.
+#33: Go to the left.
+#34: Go to the right. [Mysterious Note]

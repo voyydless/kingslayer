@@ -23,6 +23,8 @@ public class ProcessarArquivos {
     private int cenaFracassoSorte;
     private String descricaoSucessoSorte;
     private String descricaoFracassoSorte;
+    private Map<Integer, String> requisitosItem = new HashMap<>();
+    private boolean fimDoJogo = false;
 
     //Getters e setters
     public int getNumeroCena() { return numeroCena; }
@@ -71,4 +73,11 @@ public class ProcessarArquivos {
 
     public String getDescricaoFracassoSorte() { return descricaoFracassoSorte; }
     public void setDescricaoFracassoSorte(String descricao) { this.descricaoFracassoSorte = descricao; }
+
+    public void adicionarRequisito(int cena, String itemNome) { requisitosItem.put(cena, itemNome); }
+    public String getRequisitoItem(int cena) { return requisitosItem.get(cena); }
+    public boolean temRequisito(int cena) { return requisitosItem.containsKey(cena); }
+
+    public boolean isFimDoJogo() { return fimDoJogo; }
+    public void setFimDoJogo(boolean fimDoJogo) { this.fimDoJogo = fimDoJogo; }
 }

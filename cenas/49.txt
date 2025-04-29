@@ -1,0 +1,16 @@
+#49
+You pull your blade from its sheath, slow and sure.
+The figure does not flinch. It watches you — head tilted slightly, like a curious bird.
+Then it steps forward, its mask gleams faintly in the light of the mist.
+A single hand extends from the folds of its garment— long fingers, pale as bone, nails blueish
+purple from the lack of blood flow. It beckons you again.
+
+You attack.
+
+N: The Vulture
+H: 12
+S: 12
+E: 24
+T: 0
+P: 0
+50;51

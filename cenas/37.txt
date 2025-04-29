@@ -1,0 +1,16 @@
+#37
+You draw your weapon.
+The Rotten shudders at the sound; some final, broken instinct stirring inside its ruined
+mind. It lifts its head. One eye dangles loose, barely tethered by a thread of sinew.
+Its jaw works soundlessly, mouthing a prayer it can no longer remember.
+
+You don't hesitate.
+You step forward—
+
+N: Rotten
+H: 10
+S: 6
+E: 10
+T: 0
+P: 0
+38;39
