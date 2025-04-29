@@ -1,0 +1,18 @@
+m
+You turn toward the swifter threat. Leporidae.
+She darts between buildings— a shadow in motion, hooded and pale-eyed, her armor a
+patchwork of the finest leather. Twin blades gleam in each hand, both already slick with
+something that isn’t water.
+She whistles, shrill— a distraction.
+You duck, narrowly dodging the dagger hurled from above.
+She descends in a blink.
+A flurry of strikes— too fast to meet head-on. If you parry one, you miss the second.
+
+N: Leporidae Soldier
+H: 18
+S: 6
+E: 12
+T: 10
+P: 1
+I: Thick Leather Armour;r;0;0;3
+64;65

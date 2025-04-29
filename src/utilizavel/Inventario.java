@@ -7,17 +7,11 @@ public class Inventario {
     private int provisoes = 0;
     private int tesouro = 0;
 
-    public void adicionarItem(Item item) {
-        itens.add(item);
-    }
+    public void adicionarItem(Item item) { itens.add(item); }
 
-    public void adicionarProvisoes(int quantidade) {
-        provisoes += quantidade;
-    }
+    public void adicionarProvisoes(int quantidade) { provisoes += quantidade; }
 
-    public void adicionarTesouro(int quantidade) {
-        tesouro += quantidade;
-    }
+    public void adicionarTesouro(int quantidade) { tesouro += quantidade; }
 
     public boolean temItemComNome(String nome) {
         for (Item item : itens) {
@@ -27,6 +21,8 @@ public class Inventario {
         }
         return false;
     }
+
+    public void removerTodosItens() { itens.clear(); }
 
     public void exibir() {
         System.out.println("ITENS:");

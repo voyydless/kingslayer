@@ -1,0 +1,23 @@
+#67
+"Best be on your way, then!" The bounty hunter says, untying your constraints.
+He sees your quizzical look and explains further. "The King put a bounty on your head,
+said he wants you dead or alive. I brought you here, you're alive. Now you go on and
+give him this." He hands you your own bounty poster, with 'CAUGHT BY - ' and his
+unreadable signature on the back.
+Was he an idiot?
+"It proves that I was the one to catch you! And I'll be waiting right here for him
+to reward me with the gold I earned."
+"Are you an idiot?"
+"No, I'm cautious. You think I'm risking my life by entering the King's castle? No
+way. If anyone's dying today, it's you."
+He was an absolute idiot.
+
+"Alright," you speak after a brief moment of utter confusion. "I'll... go see the King now."
+"Yeah, you'll be seeing him alright. And I'll be seeing his gold." There's pride in
+his voice, you can't help but admire such naive stupidity.
+
+It's not how you imagined you'd get here, but you're here.
+You walk through the gates.
+
+I: Bounty Poster;c;0;0;0
+#68: Enter.

@@ -1,0 +1,19 @@
+#54
+The main road that cuts through the city was too open, too visible. You step off the
+path, into overgrown brush, and begin the long walk along the wall’s perimeter.
+What was once a pristine outer garden is now a cemetery of vines and twisted iron.
+Thorned branches tug at your cloak. Statues of saints and scholars peer out from cracked
+alcoves, their faces long since worn away, the Rot even digging into stone.
+
+Every few steps, your boot crunches something dry— a twig, or a bone, it’s hard to say.
+The wall looms high above you now. Once meant to keep out invaders.
+Now it keeps in silence.
+
+You find a place where the stone has eroded, weathered by rain that shouldn’t fall and
+time that shouldn’t pass. The climb won’t be easy, but it’s your best chance.
+
+You check the straps on your gauntlet, dig your fingers into the crevices of the wall, and begin to climb.
+
+SORTE
+#55: You climb.
+#56: You climb— you fall.

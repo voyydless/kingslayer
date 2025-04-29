@@ -4,7 +4,8 @@ It leans down, its bark splitting, black sap oozing toward you like a living thi
 You do not resist. It sinks into your wounds, into your mouth, into your eyes.
 You feel yourself unraveling, thread by thread, memory by memory.
 
-When you open your eyes again, you are standing on the castle steps.
+When you open your eyes again, you are standing in the place you've always wanted to be:
+The castle, one room away from the man you were going to kill.
 You feel strong. Whole.
 You feel nothing at all.
 You look down at your arm— it is untouched, pristine.
@@ -16,4 +17,4 @@ The king waits.
 
 I: Rotted Arm;w;1;5;5
 
-#?: castle
+#59: Go.

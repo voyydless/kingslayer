@@ -119,7 +119,10 @@ public class LeitorDeArquivos {
                     }else if (linha.equalsIgnoreCase("FIM")) {
                             cena.setFimDoJogo(true);
 
-                        //É uma opção?
+                    } else if (linha.equalsIgnoreCase("DROPITEMS")) {
+                        cena.setRemoverItens(true);
+
+                    //É uma opção?
                     } else if (linha.startsWith("#")) {
                             String[] partes = linha.substring(1).split(":");
                             int destino = Integer.parseInt(partes[0].trim());

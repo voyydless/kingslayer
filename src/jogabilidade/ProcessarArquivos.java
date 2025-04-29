@@ -25,6 +25,7 @@ public class ProcessarArquivos {
     private String descricaoFracassoSorte;
     private Map<Integer, String> requisitosItem = new HashMap<>();
     private boolean fimDoJogo = false;
+    private boolean removerItens = false;
 
     //Getters e setters
     public int getNumeroCena() { return numeroCena; }
@@ -80,4 +81,7 @@ public class ProcessarArquivos {
 
     public boolean isFimDoJogo() { return fimDoJogo; }
     public void setFimDoJogo(boolean fimDoJogo) { this.fimDoJogo = fimDoJogo; }
+
+    public boolean isRemoverItens() { return removerItens; }
+    public void setRemoverItens(boolean remover) { this.removerItens = remover; }
 }

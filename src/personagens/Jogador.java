@@ -19,6 +19,7 @@ public class Jogador extends Personagem {
         this.energiaMaxima = energia; //Energia máxima é a energia inicial definida pelo jogador
     }
 
+    //Método para equipar arma
     public void equiparArma(Item arma) {
         if (arma != null && arma.getTipo() == 'w') {
             armaEquipada = arma;
@@ -28,6 +29,7 @@ public class Jogador extends Personagem {
         }
     }
 
+    //Método para equipar armadura
     public void equiparArmadura(Item armadura) {
         if (armadura != null && armadura.getTipo() == 'r') {
             armaduraEquipada = armadura;
@@ -50,6 +52,7 @@ public class Jogador extends Personagem {
         }
     }
 
+    //Método para testar sorte
     public boolean testarSorte() {
         if (getSorte() <= 0) {
             System.out.println("Sua sorte já acabou.");
@@ -62,6 +65,13 @@ public class Jogador extends Personagem {
 
         setSorte(getSorte() - 1);
         return sucesso;
+    }
+
+    //Método para perder os itens
+    public void perderTodosItens() {
+        inventario.removerTodosItens();
+        armaEquipada = null;
+        armaduraEquipada = null;
     }
 
     //Exibe as informações do jogador no console

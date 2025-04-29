@@ -1,0 +1,18 @@
+m
+You turn toward the heavier steps. Ursae.
+He rounds the corner fully armored, a mountain of blackened steel with a gold trim,
+helm shaped like a bear’s skull, pauldrons jagged as shattered teeth. His gait is steady,
+confident. No wasted movement. He carries a hammer, not a sword— no elegance in what he
+means to do. He doesn’t speak. Just lunges.
+You sidestep. Barely.
+The hammer crushes the cobblestone, sends chips flying into your cheek. You feel the sting of blood.
+He comes again, relentless.
+
+N: Ursae Soldier
+H: 12
+S: 6
+E: 18
+T: 10
+P: 1
+I: Large Hammer;w;1;2;3
+62;63

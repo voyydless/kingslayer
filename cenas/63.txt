@@ -1,0 +1,12 @@
+#63
+You go in hard, confident— too confident.
+You dodge the first swing, but the second lands just close enough. You lose your footing.
+He’s on you in an instant. Your blade glances off his chest, useless.
+The hammer rises. He doesn’t kill you.
+He knocks you through a fruit cart, unconscious in seconds.
+
+When you wake, your blade is gone and your arm throbs. You’ve lost this fight, and precious time.
+At least, they're gone. It seems your defeat made them think you weren't a threat.
+
+DROPITEMS
+#66: You can't rest yet.

@@ -14,4 +14,4 @@ The world spins. Your legs go weak— but you do not fall.
 The path behind you closes.
 Now you can only stagger forward.
 
-#? Castle
+#59: You don't know how, but it, or he, has brought you here. To the castle.

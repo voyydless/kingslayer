@@ -62,6 +62,12 @@ public class TelaJogo {
                         "Você ganhou " + modificadorPovisoes + " provisão.");
             }
 
+            //Perda de itens
+            if (cena.isRemoverItens()) {
+                jogador.perderTodosItens();
+                System.out.println("Todos os seus itens foram perdidos!");
+            }
+
             //Verificar se é uma cena de combate
             if (cena.isCombate()) {
                 boolean vitoria = TelaCombate.iniciarCombate(jogador, cena.getInimigo());

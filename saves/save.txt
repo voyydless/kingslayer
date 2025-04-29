@@ -7,4 +7,4 @@ Sorte:10
 Tesouro:100
 Provisoes:1
 Item:Espada curta;w;true;1;0
-Item:Armadura de Couro;r;false;0;0
+Item:Armadura de Couro;r;false;0;3

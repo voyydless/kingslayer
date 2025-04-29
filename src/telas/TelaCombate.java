@@ -40,14 +40,35 @@ public class TelaCombate {
 
             if (faJogador > faInimigo) {
                 int dano = 2 + (jogador.getArmaEquipada() != null ? jogador.getArmaEquipada().getDano() : 0);
+
+                //Redução da armadura do inimigo
+                if (inimigo.getItem() != null && inimigo.getItem().getTipo() == 'r') {
+                    dano -= inimigo.getItem().getDano();
+                }
+
+                dano = Math.max(dano, 0); //Não pode causar dano negativo
                 inimigo.setEnergia(inimigo.getEnergia() - dano);
-                System.out.println("\nVocê causou " + dano + " de dano em " + inimigo.getNome());
+                System.out.println("\n" + inimigo.getNome() + " recebeu " + dano + " de dano!");
                 acertosJogador++;
+
             } else if (faInimigo > faJogador) {
                 int dano = 2 + (inimigo.getItem() != null ? inimigo.getItem().getDano() : 0);
+
+                //Redução da armadura do jogador
+                if (jogador.getArmaduraEquipada() != null) {
+                    dano -= jogador.getArmaduraEquipada().getDano();
+                }
+
+                dano = Math.max(dano, 0);
                 jogador.setEnergia(jogador.getEnergia() - dano);
                 System.out.println("\n" + inimigo.getNome() + " te acertou e causou " + dano + " de dano");
                 acertosInimigo++;
+
+                if (jogador.getEnergia() <= 0) {
+                    System.out.println("\nVocê caiu em batalha...");
+                    return false; // derrota
+                }
+
             } else {
                 System.out.println("\nEmpate!");
             }

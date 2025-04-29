@@ -1,0 +1,14 @@
+#59
+You look behind you and stare outside a window.
+The Royal City of Caedros below disappears in mist and smoke.
+You can hardly believe you made it. You can hardly believe you're alive.
+Taking in your surroundings, the interior of the castle is less a palace and more a tomb;
+a mausoleum built to house a still-living god.
+No guards. No servants. No signs of life save for the faint flickering of torches lined
+against the wall.
+
+You walk. Every step echoes.
+The doors creak open before you touch them. Either the wind, or something watching.
+The throne room waits just ahead.
+
+#69: Enter.
