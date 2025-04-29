@@ -55,22 +55,14 @@ public class TelaJogo {
                         "Você ganhou " + modificadorPovisoes + " provisão.");
             }
 
-            //Incompleto!! Por enquanto sempre vitória até implementar combate
             //Verificar se é uma cena de combate
             if (cena.isCombate()) {
-                System.out.println();
-                EstilizacaoTela.centralizar("--- COMBATE INICIADO ---", 70);
-                cena.getInimigo().exibirInformacoes();
+                boolean vitoria = TelaCombate.iniciarCombate(jogador, cena.getInimigo());
 
-                System.out.println("\nCombate ainda não implementado - vitória simulada");
-                System.out.println("Pressione ENTER para continuar");
-                scanner.nextLine();
-
-                //Por enquanto sempre vitória, possivelmente mudar partes disso para TelaCombate depois
-                //Bem rudimentar, vou polir depois
-                Inimigo inimigo = cena.getInimigo();
-
-                //Recompensas:
+                if (vitoria) {
+                    cenaAtual = cena.getCenaVitoria();
+                    Inimigo inimigo = cena.getInimigo();
+                    //Recompensas:
                 if (inimigo.getProvisoes() > 0) {
                     jogador.getInventario().adicionarProvisoes(inimigo.getProvisoes());
                     System.out.println("Você ganhou " + inimigo.getProvisoes() + " provisões!");
@@ -81,10 +73,15 @@ public class TelaJogo {
                 }
                 if (inimigo.getItem() != null) {
                     jogador.getInventario().adicionarItem(inimigo.getItem());
-                    System.out.println("\nItem adquirido: " + item);
+                    System.out.println("Item adquirido: " + inimigo.getItem());
                 }
-
-                cenaAtual = cena.getCenaVitoria();
+                    scanner.nextLine(); //Consumir o buffer
+                    EstilizacaoTela.linhas();
+                    System.out.println("\nPressione ENTER para continuar...");
+                    scanner.nextLine();
+                } else {
+                    cenaAtual = cena.getCenaDerrota();
+                }
                 continue;
             }
 

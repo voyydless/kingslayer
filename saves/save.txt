@@ -1,10 +1,10 @@
-CenaAtual:20
-CenasVistas:16,1,2,18,3,20,5,10
+CenaAtual:32
+CenasVistas:16,32,1,2,18,3,5,23,10
 Nome:teste
-Habilidade:10
-Energia:16
-Sorte:10
-Tesouro:100
+Habilidade:12
+Energia:18
+Sorte:5
+Tesouro:95
 Provisoes:3
 Item:Espada curta;w;true;1;0
 Item:Armadura de Couro;r;false;0;0

@@ -1,1 +1,10 @@
 #32
+The trees here are wrong. Tall, colorless, hollowed out like old bones.
+Their bark peels in long strips, as if trying to slough off rot the way a man might shed
+infected skin. Moss hangs like dead hair. Roots claw at the ground like fingers.
+You keep your blade close, your steps quiet. You know better than to trust stillness in a
+place like this.
+
+#33: Go to the left. [Mysterious Note]
+#34: Go to the right.
+#35: Wait and listen.

@@ -18,4 +18,6 @@ You'd killed it before, it wasn't supposed to come back.
 You press your cloak tighter around yourself, and move.
 There’s no time to waste.
 
-#?: Head through the forest.
+I: Rotted Arm;w;1;5;5
+
+#32: Head through the forest.
