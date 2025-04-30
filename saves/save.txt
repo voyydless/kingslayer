@@ -1,11 +1,10 @@
-CenaAtual:70
-CenasVistas:70
-Nome:Armâ
+CenaAtual:10
+CenasVistas:1,2,3,5,10
+Nome:taste
 Habilidade:10
-Energia:7
-Sorte:6
+Energia:16
+Sorte:10
 Tesouro:100
-Provisoes:2
+Provisoes:1
 Item:Espada curta;w;true;1;0
 Item:Armadura de Couro;r;false;0;0
-Item:Bilhete Misterioso;c;false;0;0

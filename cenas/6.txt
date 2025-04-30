@@ -10,6 +10,6 @@ Talvez, se mudasse de assunto, ele ignorasse o fato de que você estava empurran
 
 T: -1
 
-#14: Perguntar sobre o Rei.
-#15: Perguntar sobre o soldado.
+#14: Pergunte sobre o Rei.
+#15: Pergunte sobre o soldado.
 #8: “Há um quarto em que eu possa ficar? Tenho ouro para pagar.”

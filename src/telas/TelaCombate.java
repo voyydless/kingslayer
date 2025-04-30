@@ -16,6 +16,8 @@ public class TelaCombate {
         int acertosJogador = 0;
         int acertosInimigo = 0;
 
+        EstilizacaoTela.centralizar("Pressione ENTER para iniciar o combate", 70);
+        scanner.nextLine();
         EstilizacaoTela.centralizar("--- COMBATE INICIADO ---", 70);
         EstilizacaoTela.centralizar("Oponente:", 70);
         inimigo.exibirInformacoes();
@@ -23,8 +25,8 @@ public class TelaCombate {
         jogador.exibirInformacoes();
 
         while (acertosJogador < 3 && acertosInimigo < 3) {
-            EstilizacaoTela.linhas();
-            EstilizacaoTela.centralizar("\nPressione ENTER para rolar os dados", 70);
+//            EstilizacaoTela.linhas();
+            EstilizacaoTela.centralizar("Pressione ENTER para rolar os dados", 70);
             System.out.println("\nSua energia: " + jogador.getEnergia() + "\nEnergia do oponente: " + inimigo.getEnergia() +
                                 "\nSeus acertos: " + acertosJogador + "\nAcertos do oponente: " + acertosInimigo);
             scanner.nextLine();
@@ -33,7 +35,7 @@ public class TelaCombate {
             int dadoJogador = random.nextInt(10) + 1;
             int dadoInimigo = random.nextInt(10) + 1;
             int faJogador = dadoJogador + jogador.getHabilidade();
-            int faInimigo = dadoInimigo + inimigo.getEnergia();
+            int faInimigo = dadoInimigo + inimigo.getHabilidade();
 
             System.out.println("Você rolou: " + dadoJogador + " | FA total: " + faJogador);
             System.out.println("Oponente rolou: " + dadoInimigo + " | FA total: " + faInimigo);
@@ -49,6 +51,7 @@ public class TelaCombate {
                 dano = Math.max(dano, 0); //Não pode causar dano negativo
                 inimigo.setEnergia(inimigo.getEnergia() - dano);
                 System.out.println("\n" + inimigo.getNome() + " recebeu " + dano + " de dano!");
+                EstilizacaoTela.linhas();
                 acertosJogador++;
 
             } else if (faInimigo > faJogador) {
@@ -61,7 +64,8 @@ public class TelaCombate {
 
                 dano = Math.max(dano, 0);
                 jogador.setEnergia(jogador.getEnergia() - dano);
-                System.out.println("\n" + inimigo.getNome() + " te acertou e causou " + dano + " de dano");
+                System.out.println("\n" + inimigo.getNome() + " te acertou e causou " + dano + " de dano!");
+                EstilizacaoTela.linhas();
                 acertosInimigo++;
 
                 if (jogador.getEnergia() <= 0) {
@@ -71,6 +75,7 @@ public class TelaCombate {
 
             } else {
                 System.out.println("\nEmpate!");
+                EstilizacaoTela.linhas();
             }
         }
         // Verifica quem venceu com base nos acertos

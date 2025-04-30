@@ -25,5 +25,5 @@ Você respira fundo e olha para cima.
 O castelo se ergue alto acima da cidade em sua colina interna, suas torres douradas corroídas nas bordas,
 suas bandeiras agora retalhos de pano. Você conseguiu chegar até aqui.
 
-#53: Entrar na cidade pelo portão principal.
-#54: Dar a volta e escalar a muralha, indo direto para o castelo.
+#53: Entre na cidade pelo portão principal.
+#54: Dê a volta e escalar a muralha, indo direto para o castelo.

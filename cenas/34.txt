@@ -14,4 +14,4 @@ Você come em silêncio, observando o vento mover-se lentamente entre as árvore
 Por um momento, é quase... pacífico.
 
 P: -1
-#41: Continuar caminhando.
+#41: Continue caminhando.

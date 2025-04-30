@@ -14,5 +14,5 @@ E, assim como o bilhete, não há nada que indique quem o fez.
 
 Você franze a testa. Você já viu essa árvore antes.
 
-#24: Continuar procurando.
-#25: Estudar o desenho mais de perto.
+#24: Continue procurando.
+#25: Estude o desenho mais de perto.

@@ -10,5 +10,5 @@ Seu rosto está abatido, os lábios rachados. Uma caneca de cerveja repousa into
 “O que você quer?” ele diz, antes que você possa abrir a boca.
 
 #9: “O que um soldado está fazendo numa cidade como esta?”
-#10: Atacar antes que ele tenha tempo de reagir.
-#4: Permanecer em silêncio. Aproximar-se do estalajadeiro.
+#10: Ataque antes que ele tenha tempo de reagir.
+#4: Permaneça em silêncio. Volte e aproxime-se do estalajadeiro.

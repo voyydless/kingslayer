@@ -13,5 +13,5 @@ Você aperta a mão em volta da arma.
 Não há como acordar disso.
 A Podridão veio, enfim, colher o que você plantou.
 
-#29: Cortar a raiz da árvore.
-#30: Oferecer-se a ela, você está tão cansado.
+#29: Corte a raiz da árvore.
+#30: Ofereça-se a ela, você está tão cansado.

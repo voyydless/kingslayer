@@ -16,5 +16,5 @@ Uma pausa. Pesada, fria.
 A máscara se inclina ligeiramente.
 "Mas você se ofereceria em troca?"
 
-#43: Falar com ela.
-#49: Sacar sua arma.
+#43: Fale com ela.
+#49: Saque sua arma.

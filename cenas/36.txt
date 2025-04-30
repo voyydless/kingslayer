@@ -12,7 +12,7 @@ para não acordar os ocupantes com seu rangido— mas é o bastante para alertar
 O suave estalar de passos na terra soa como tambores de guerra para você.
 
 P: 1
-#20: Preparar-se para atacar.
+#20: Prepare-se para atacar.
 SORTE
-#23: Caminhar devagar, o mais silenciosamente possível, ele não vai notar.
+#23: Caminhe devagar, o mais silenciosamente possível, ele não vai notar.
 #22: Ele te embosca.

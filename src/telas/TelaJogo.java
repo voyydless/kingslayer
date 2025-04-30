@@ -30,7 +30,7 @@ public class TelaJogo {
             EstilizacaoTela.limparTela();
             System.out.println("\n" + cena.getTexto());
 
-            // Verifica se a cena atual é o fim do jogo
+            //Verifica se a cena atual é o fim do jogo
             if (cena.isFimDoJogo()) {
                 EstilizacaoTela.centralizar("--- FIM ---", 70);
                 EstilizacaoTela.centralizar("Obrigado por jogar! (˶˃ ᵕ ˂˶)", 70);
@@ -98,7 +98,7 @@ public class TelaJogo {
                 continue;
             }
 
-            // Exibe as opções para próxima cena
+            //Exibe as opções para próxima cena
             System.out.println("\nEscolhas:");
             Map<Integer, Integer> mapaOpcoes = new LinkedHashMap<>();
             int i = 1;
@@ -109,7 +109,7 @@ public class TelaJogo {
                 i++;
             }
 
-            // Mostrar opção de teste de sorte se disponível
+            //Mostrar opção de teste de sorte se disponível
             if (cena.isTesteDeSorte()) {
                 System.out.println("d - Testar sua sorte (Sorte atual: " + jogador.getSorte() + ") | Abaixo disso, será sucesso. Acima, será fracasso.");
                 System.out.println("   Sucesso: " + cena.getDescricaoSucessoSorte());
@@ -117,17 +117,22 @@ public class TelaJogo {
             }
 
             //Opção especial: digitar "i" para ver inventário
-            System.out.println("\nDigite o número da cena desejada ou 'i' para abrir o inventário:");
+            System.out.println("\nDigite o número da cena desejada, 'i' para abrir o inventário ou 'x' para encerrar:");
             String entrada = scanner.next(); // Usa apenas next() para evitar problemas com o buffer
 
-            // Processar a entrada do jogador
+            //Processar a entrada do jogador
             if (entrada.equalsIgnoreCase("i")) {
                 // Abrir inventário
                 TelaInventario.mostrarInventario(jogador);
                 scanner.nextLine(); // Limpa o buffer
                 continue;
+                //Encerrar jogo
+            } else if (entrada.equalsIgnoreCase("x")){
+                EstilizacaoTela.centralizar("--- FIM ---", 70);
+                EstilizacaoTela.centralizar("Obrigado por jogar! (˶˃ ᵕ ˂˶)", 70);
+                System.exit(0);
+                //Testar sorte
             } else if (entrada.equalsIgnoreCase("d") && cena.isTesteDeSorte()) {
-                // Testar sorte
                 System.out.println("Rolando um d12...");
                 boolean sucesso = jogador.testarSorte();
 
@@ -146,7 +151,7 @@ public class TelaJogo {
                 continue;
 
             } else {
-                // Processar escolha numérica
+                //Processar escolha numérica
                 try {
                     int escolhaVisivel = Integer.parseInt(entrada);
                     if (mapaOpcoes.containsKey(escolhaVisivel)) {

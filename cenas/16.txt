@@ -14,7 +14,7 @@ Enquanto você pega a bandeja, nota algo embaixo dela; um bilhete.
 Sem nome, sem assinatura. Você não sabe de quem é, mas sabe que é para você.
 Uma porta range lá embaixo. Quem quer que tenha deixado o bilhete está indo embora.
 
-#17: Procurar mais pistas no quarto.
+#17: Procure mais pistas no quarto.
 #36: Sair.
 #18: Guardar o bilhete e sair.
 #19: Algo sobre o bilhete te lembra um sonho.

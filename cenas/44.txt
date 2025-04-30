@@ -21,7 +21,7 @@ Esta é a fonte.
 Este é o banquete que o Rei alimentou.
 O que tem devorado a terra, as pessoas, a própria alma deste reino.
 
-#45: Dar um passo mais perto.
-#46: Tentar resistir à atração.
-#47: Fujir.
+#45: Dê um passo mais perto.
+#46: Tente resistir à atração.
+#47: Fuja.
 

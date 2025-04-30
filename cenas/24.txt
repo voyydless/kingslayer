@@ -12,5 +12,5 @@ Olhando para baixo, o bilhete está de volta na sua mão.
 Uma voz distorcida debaixo da cama sibila em uma língua que você não entende, mas você sabia o
 que estava dizendo: 'Você nunca acordará novamente.'
 
-#26: Forçar-se a acordar.
-#27: Descer mais fundo no sonho.
+#26: Force-se a acordar.
+#27: Desça mais fundo no sonho.
