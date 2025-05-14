@@ -34,14 +34,17 @@ public class TelaInicial {
                 //Inicia a criação do personagem e começa um novo jogo
                 EstilizacaoTela.limparTela();
                 TelaInventario.criacaoIncial();
-                break;
+                return;
             }
             case "2": {
                 //Carrega o progresso salvo do jogador
                 EstilizacaoTela.limparTela();
                 Arquivos.carregarJogo();
-                System.out.println("Jogo carregado. Cena atual: " + Jogo.getCenaAtual());
-                break;
+                System.out.println("\nJogo carregado com sucesso! Cena atual: " + Jogo.getCenaAtual());
+                System.out.println("Pressione ENTER para começar");
+                scanner.nextLine();
+                TelaJogo.iniciar();
+                return;
             }
             case "3": {
                 //Exibe os créditos

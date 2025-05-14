@@ -146,7 +146,6 @@ public class Arquivos {
             System.out.println("Cena Inicial Escolhida: " + cenaEscolhida);
             System.out.println("Cenas Vistas:           " + cenasVistas);
 
-            System.out.println("\nJogo carregado com sucesso!");
         } catch (IOException | NumberFormatException e) {
             System.out.println("Erro ao carregar o jogo: " + e.getMessage());
         }
@@ -176,9 +175,9 @@ public class Arquivos {
             int escolhida = Integer.parseInt(entrada);
             // opcional: validar que a cena está em cenasVistas
             if (!cenasVistas.contains(escolhida)) {
-                System.out.println("Cena não estava nas vistas; iniciando mesmo assim em " + escolhida);
+                System.out.println("Cena não estava nas vistas; mantendo cena " + cenaSalva);
             }
-            return escolhida;
+            return cenaSalva;
         } catch (NumberFormatException e) {
             System.out.println("Entrada inválida; mantendo cena " + cenaSalva);
             return cenaSalva;
